@@ -1,0 +1,1993 @@
+#EXTM3U
+#EXTINF:0,Россия 1 (+9)
+#EXTGRP:малАя
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:0,Первый канал (+9)
+#EXTGRP:малАя
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:0,НТВ (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:0,СТС (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:0,ТВ Центр (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:0,ТВ 3 (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:0,РЕН ТВ (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0,Пятница! (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:0,Че (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:0,Ю (+7)
+#EXTGRP:малАя
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:0,#КтоКуда
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KTOKUDA/variant.m3u8
+#EXTINF:0,365 дней
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_365DNEYHD/variant.m3u8
+#EXTINF:0,BIG PLANET
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGPLANETHD/variant.m3u8
+#EXTINF:0,CuriosityStream
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CURIOSITYSTREAMHD/variant.m3u8
+#EXTINF:0,Da Vinci
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DAVINCILEARNING/variant.m3u8
+#EXTINF:0,English Class
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ENGLISHCLASSHD/variant.m3u8
+#EXTINF:0,Epic HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EPICHD/variant.m3u8
+#EXTINF:0,FoodTime HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EDAPREMIUMHD/variant.m3u8
+#EXTINF:0,HDL HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HDLHD/variant.m3u8
+#EXTINF:0,Museum HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSEUMHD/variant.m3u8
+#EXTINF:0,My Zen TV HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MYZENTVHD/variant.m3u8
+#EXTINF:0,QUADRO 4K
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_QUADRO4K/variant.m3u8
+#EXTINF:0,RT HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/variant.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8
+#EXTINF:0,RTД HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8
+#EXTINF:0,TERRA HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELANDADVENTUREHD/variant.m3u8
+#EXTINF:0,Travelxp 4K
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELXP4K/variant.m3u8
+#EXTINF:0,travelxp HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELXPHD/variant.m3u8
+#EXTINF:0,viju Explore HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8
+#EXTINF:0,viju History HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8
+#EXTINF:0,viju Nature HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATNATUREHD/variant.m3u8
+#EXTINF:0,viju+ Planet HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8
+#EXTINF:0,Zоопарк
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZOOPARK/variant.m3u8
+#EXTINF:0,АВТО24 HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8
+#EXTINF:0,Аппетитный
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_APPETITNIYHD/variant.m3u8
+#EXTINF:0,Бобёр
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8
+#EXTINF:0,Большая Азия HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BIGASIAHD/variant.m3u8
+#EXTINF:0,Глазами туриста HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTAHD/variant.m3u8
+#EXTINF:0,Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8
+#EXTINF:0,Дикая охота HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/variant.m3u8
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:0,Дикий
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKIY/variant.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_24DOC/variant.m3u8
+#EXTINF:0,Драйв
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8
+#EXTINF:0,Драйв HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVEHD/variant.m3u8
+#EXTINF:0,Еда HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8
+#EXTINF:0,Живи активно HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVIAKTIVNOHD/variant.m3u8
+#EXTINF:0,Загородная жизнь HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZAGORODNAYAZHIZNHD/variant.m3u8
+#EXTINF:0,История
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8
+#EXTINF:0,Ключ HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KEYHD/variant.m3u8
+#EXTINF:0,Кухня
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8
+#EXTINF:0,Мама
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATIDITYA/variant.m3u8
+#EXTINF:0,Моя Планета
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MYPLANET/variant.m3u8
+#EXTINF:0,Моя Планета HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8
+#EXTINF:0,Мужской
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHSKOY/variant.m3u8
+#EXTINF:0,МЫ
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MYHD/variant.m3u8
+#EXTINF:0,Наука
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NAUKA20/variant.m3u8
+#EXTINF:0,Наша Сибирь 4K
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:0,Неизвестная Россия HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UNKRUSSIAHD/variant.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NOSTALGIYA/variant.m3u8
+#EXTINF:0,Океан HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OCEANTV/variant.m3u8
+#EXTINF:0,Оружие
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WEAPON/variant.m3u8
+#EXTINF:0,Охота и рыбалка
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8
+#EXTINF:0,ПОЕХАЛИ!
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_POEHALIHD/variant.m3u8
+#EXTINF:0,Просвещение
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PROSVESCHENIE/variant.m3u8
+#EXTINF:0,Ратник HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8
+#EXTINF:0,Совершенно секретно
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVSEKRETNO/variant.m3u8
+#EXTINF:0,Союз
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOYUZ/variant.m3u8
+#EXTINF:0,Т24
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8
+#EXTINF:0,Тайны Галактики HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TAINYGALAKTIKIHD/variant.m3u8
+#EXTINF:0,ТЕЛЕКАФЕ
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TELEKAFE/variant.m3u8
+#EXTINF:0,Точка отрыва
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TOCHKAOTRYVA/variant.m3u8
+#EXTINF:0,Усадьба
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8
+#EXTINF:0,.black
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8
+#EXTINF:0,.black HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BLACKHD/variant.m3u8
+#EXTINF:0,.red
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SET/variant.m3u8
+#EXTINF:0,.red HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8
+#EXTINF:0,.sci-fi
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8
+#EXTINF:0,.sci-fi HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SCIFIHD/variant.m3u8
+#EXTINF:0,A1 HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8
+#EXTINF:0,A2 HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8
+#EXTINF:0,Amedia Hit HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8
+#EXTINF:0,BOLT HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PARKRAZVLECHENIJ/variant.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HOLLYWOODHD/variant.m3u8
+#EXTINF:0,KinoLiving
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOLIVINGHD/variant.m3u8
+#EXTINF:0,Plan B
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PLANBHD/variant.m3u8
+#EXTINF:0,Romance Channel
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ROMANCEHD/variant.m3u8
+#EXTINF:0,RT DE
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDEHD/variant.m3u8
+#EXTINF:0,Shant Serial HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTSERIALHD/variant.m3u8
+#EXTINF:0,SHOT TV HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOTTVHD/variant.m3u8
+#EXTINF:0,Star Cinema HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8
+#EXTINF:0,Star Family HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8
+#EXTINF:0,START Air
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTAIRHD/variant.m3u8
+#EXTINF:0,START World
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTWORLDHD/variant.m3u8
+#EXTINF:0,Suspense
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUSPENSEHD/variant.m3u8
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:0,VHS-KA HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VHSKAHD/variant.m3u8
+#EXTINF:0,viju Comedy HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8
+#EXTINF:0,viju TV1000
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8
+#EXTINF:0,viju TV1000 Action HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8
+#EXTINF:0,viju TV1000 Новелла HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIJUTV1000NOVELLAHD//variant.m3u8
+#EXTINF:0,viju+ Megahit HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8
+#EXTINF:0,viju+ Premiere HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8
+#EXTINF:0,viju+ Serial HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8
+#EXTINF:0,Время
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VREMYADIB/variant.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8
+#EXTINF:0,Дом кино Премиум
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DORAMA/variant.m3u8
+#EXTINF:0,Иллюзион+
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8
+#EXTINF:0,Индия HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/variant.m3u8
+#EXTINF:0,КИНЕКО HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8
+#EXTINF:0,КИНОМИКС
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8
+#EXTINF:0,КИНОСЕМЬЯ HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8
+#EXTINF:0,КИНОСЕРИЯ HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOSERIAHD/variant.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUZHASHD/variant.m3u8
+#EXTINF:0,КИНОХИТ HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8
+#EXTINF:0,Комедия
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8
+#EXTINF:0,Любимое Кино
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LUBIMOE/variant.m3u8
+#EXTINF:0,Мир сериала
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD/variant.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8
+#EXTINF:0,Настоящее Страшное Телевидение
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NSTV/variant.m3u8
+#EXTINF:0,НАШЕ НОВОЕ КИНО
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVSERIAL/variant.m3u8
+#EXTINF:0,Родное кино
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8
+#EXTINF:0,Русский детектив
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8
+#EXTINF:0,Русский Роман HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8
+#EXTINF:0,САПФИР HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8
+#EXTINF:0,Страшное HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_STRASHNOEHD/variant.m3u8
+#EXTINF:0,ТВ-21 HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV21HD/variant.m3u8
+#EXTINF:0,Театр HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_THEATERHD/variant.m3u8
+#EXTINF:0,Феникс+ кино HD
+#EXTGRP:Фильмы
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FENIKSPLUSKINOHD/variant.m3u8
+#EXTINF:0,10 канал (Новокузнецк)
+#EXTGRP:Региональные
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
+#EXTINF:0,11 канал-Наш дом-Известия (Пенза)
+#EXTGRP:Региональные
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8
+#EXTINF:0,12 канал (Омск)
+#EXTGRP:Региональные
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:0,31 канал (Челябинск)
+#EXTGRP:Региональные
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:0,4 канал (Екатеринбург)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
+#EXTINF:0,41 Регион (Камчатка)
+#EXTGRP:Региональные
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+#EXTINF:0,49 канал (Новосибирск)
+#EXTGRP:Региональные
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:0,5 канал (Таганрог)
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_RD_TAGANROG5/variant.m3u8
+#EXTINF:0,6 канал (Владимир)
+#EXTGRP:Региональные
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_6KANAL/variant.m3u8
+#EXTINF:0,6 ТВ (Хабаровск)
+#EXTGRP:Региональные
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:0,7 канал (Красноярск)
+#EXTGRP:Региональные
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:0,86 (Сургут)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
+#EXTINF:0,Kazakh TV HD
+#EXTGRP:Региональные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KAZAHHD/variant.m3u8
+#EXTINF:0,TMTV (Казань)
+#EXTGRP:Региональные
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
+#EXTINF:0,TVоя (Тюмень)
+#EXTGRP:Региональные
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
+#EXTINF:0,UGRA Travel (Сургут)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+#EXTINF:0,АИСТ HD
+#EXTGRP:Региональные
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+#EXTINF:0,Актис (Ангарск)
+#EXTGRP:Региональные
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
+#EXTINF:0,Амурское областное телевидение
+#EXTGRP:Региональные
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
+#EXTINF:0,Анжерское телевидение (Анжеро-Судженск)
+#EXTGRP:Региональные
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_ANGERSKTV/variant.m3u8
+#EXTINF:0,Ариг Ус 24 (Улан-Удэ)
+#EXTGRP:Региональные
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_ARIGUS/variant.m3u8
+#EXTINF:0,Арктик-ТВ (Мурманск)
+#EXTGRP:Региональные
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+#EXTINF:0,Архыз 24
+#EXTGRP:Региональные
+https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
+#EXTINF:0,Астрахань 24
+#EXTGRP:Региональные
+https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+#EXTINF:0,АТВ (Ставрополь)
+#EXTGRP:Региональные
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+#EXTINF:0,АТВ-медиа (Улан-удэ)
+#EXTGRP:Региональные
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+#EXTINF:0,Афонтово (Красноярск)
+#EXTGRP:Региональные
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
+#EXTINF:0,Ачинское телевидение (Ачинск)
+#EXTGRP:Региональные
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ACHINSKOETV/variant.m3u8
+#EXTINF:0,Барс (Иваново)
+#EXTGRP:Региональные
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+#EXTINF:0,Батайск ТВ (Батайск)
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_BATAYSK/variant.m3u8
+#EXTINF:0,Белгород 24
+#EXTGRP:Региональные
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
+#EXTINF:0,Брянская губерния
+#EXTGRP:Региональные
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+#EXTINF:0,БСТ (Уфа)
+#EXTGRP:Региональные
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:0,БСТ-24 (Братск)
+#EXTGRP:Региональные
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
+#EXTINF:0,Буряад ТВ (Чита)
+#EXTGRP:Региональные
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD_ZK/variant.m3u8
+#EXTINF:0,Вариант V (Владимир)
+#EXTGRP:Региональные
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
+#EXTINF:0,Вектор 24 (Губкинский)
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+#EXTINF:0,Верхнекамье ТВ
+#EXTGRP:Региональные
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
+#EXTINF:0,Вестник Надыма
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
+#EXTINF:0,Ветта-24 (Пермь)
+#EXTGRP:Региональные
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+#EXTINF:0,Волга (Н. Новгород)
+#EXTGRP:Региональные
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8
+#EXTINF:0,Волга 24 (Нижний Новгород)
+#EXTGRP:Региональные
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:0,Волгоград 1
+#EXTGRP:Региональные
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:0,Волгоград 24
+#EXTGRP:Региональные
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:0,Вологодский вестник (Вологда)
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_RD_VOLGVEST/variant.m3u8
+#EXTINF:0,Восток 24 (Владивосток)
+#EXTGRP:Региональные
+https://s91030.cdn.ngenix.net/hls/CH_R01_VOSTOK24_OTT/variant.m3u8
+#EXTINF:0,Восточный экспресс (Челябинск)
+#EXTGRP:Региональные
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VOSTEXPRESS/variant.m3u8
+#EXTINF:0,ВОТ ТВ (Липецк)
+#EXTGRP:Региональные
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:0,Город ТВ (Рязань)
+#EXTGRP:Региональные
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
+#EXTINF:0,Городской телеканал (Ярославль)
+#EXTGRP:Региональные
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+#EXTINF:0,Губерния (Самара)
+#EXTGRP:Региональные
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:0,Губерния ТВ (Хабаровск)
+#EXTGRP:Региональные
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+#EXTINF:0,Губерния-33 (Владимир)
+#EXTGRP:Региональные
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+#EXTINF:0,Девятка ТВ (Киров)
+#EXTGRP:Региональные
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8
+#EXTINF:0,Дзержинск ТВ
+#EXTGRP:Региональные
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:0,ДОН 24 HD
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:0,Евразия (Орск)
+#EXTGRP:Региональные
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+#EXTINF:0,Енисей (Красноярск)
+#EXTGRP:Региональные
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+#EXTINF:0,Злат ТВ-360 (Златоуст)
+#EXTGRP:Региональные
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ZLATTV/variant.m3u8
+#EXTINF:0,Ивановское общественное телевидение (Иваново)
+#EXTGRP:Региональные
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+#EXTINF:0,Известия (Кемерово)
+#EXTGRP:Региональные
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_IZVEST_KEMR/variant.m3u8
+#EXTINF:0,Известия (Старый Оскол)
+#EXTGRP:Региональные
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
+#EXTINF:0,Импульс (Салехард)
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+#EXTINF:0,Инком ТВ (Талица)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
+#EXTINF:0,Инфо-24 (Курган)
+#EXTGRP:Региональные
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+#EXTINF:0,Информационная служба Югры (Сургут)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
+#EXTINF:0,Камин ТВ HD
+#EXTGRP:Региональные
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+#EXTINF:0,Камчатка (Петропавловск-Камчатский)
+#EXTGRP:Региональные
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+#EXTINF:0,Канал С 360 (Серов)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KANALC/variant.m3u8
+#EXTINF:0,Каскад (Калининград)
+#EXTGRP:Региональные
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:0,Колыма-Плюс (Магадан)
+#EXTGRP:Региональные
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+#EXTINF:0,Краснодар он-лайн (Краснодар)
+#EXTGRP:Региональные
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+#EXTINF:0,КТРК-Кыштымская телерадиокомпания (Челябинск)
+#EXTGRP:Региональные
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_KTRK/variant.m3u8
+#EXTINF:0,Кубань 24 (Краснодар)
+#EXTGRP:Региональные
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
+#EXTINF:0,Кузбасс 1
+#EXTGRP:Региональные
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+#EXTINF:0,Лен ТВ 24
+#EXTGRP:Региональные
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:0,ЛТК (Лысьва)
+#EXTGRP:Региональные
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LTK/variant.m3u8
+#EXTINF:0,Луч (Губкинский)
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LUTCH/variant.m3u8
+#EXTINF:0,Магаданский городской телеканал
+#EXTGRP:Региональные
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_MGTK/variant.m3u8
+#EXTINF:0,Майдан (Казань)
+#EXTGRP:Региональные
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
+#EXTINF:0,Мегаполис (Сургут)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MEGAPOLIS/variant.m3u8
+#EXTINF:0,МИГ ТВ (Ноябрьск)
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:0,Мир Белогорья (Белгород)
+#EXTGRP:Региональные
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:0,Мордовия 24 (Саранск)
+#EXTGRP:Региональные
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
+#EXTINF:0,МТВ (Волгоград)
+#EXTGRP:Региональные
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_MTV/variant.m3u8
+#EXTINF:0,Муравленко 24 (Муравленко)
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+#EXTINF:0,Муром ТВ (Владимир)
+#EXTGRP:Региональные
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_MUROMTV/variant.m3u8
+#EXTINF:0,Мы и город (Красноуральск)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+#EXTINF:0,МЭТР (Йошкар-Ола)
+#EXTGRP:Региональные
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:0,Наш дом (Пенза)
+#EXTGRP:Региональные
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+#EXTINF:0,Наши города (Когалым)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+#EXTINF:0,ННТВ (Нижний Новгород)
+#EXTGRP:Региональные
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:0,Новгородское областное телевидение
+#EXTGRP:Региональные
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:0,Новое время (Радужный)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:0,Новороссийск (Краснодар)
+#EXTGRP:Региональные
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_NOVOROSSIYSK/variant.m3u8?version=3
+#EXTINF:0,Новочеркасск ТВ (Новочеркасск)
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_NOVOCHERKASSK/variant.m3u8
+#EXTINF:0,Новошахтинск ТВ (Новошахтинск)
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_NOVOSHAHTINSK/variant.m3u8
+#EXTINF:0,Новый век (Тамбов)
+#EXTGRP:Региональные
+https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:0,НТК (Биробиджан)
+#EXTGRP:Региональные
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:0,НТК (Калмыкия)
+#EXTGRP:Региональные
+https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+#EXTINF:0,НТМ (Мордовия)
+#EXTGRP:Региональные
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:0,НТС (Иркутск)
+#EXTGRP:Региональные
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:0,НТС-Ирбит (Екатеринбург)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+#EXTINF:0,Область 45 (Курган)
+#EXTGRP:Региональные
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+#EXTINF:0,Омск ТВ (Омск)
+#EXTGRP:Региональные
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_OMSKTV/variant.m3u8
+#EXTINF:0,ОРТ Планета (Оренбург)
+#EXTGRP:Региональные
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_ORB_ORTPLANET/variant.m3u8
+#EXTINF:0,Осетия Ирыстон HD
+#EXTGRP:Региональные
+https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
+#EXTINF:0,ОТВ (Екатеринбург)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+#EXTINF:0,ОТВ (ЗТ Владивосток)
+#EXTGRP:Региональные
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+#EXTINF:0,ОТВ-Сахалин (Южно-Сахалинск)
+#EXTGRP:Региональные
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+#EXTINF:0,ОТС (Бердск)
+#EXTGRP:Региональные
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS_BERDSK_NSK/variant.m3u8
+#EXTINF:0,ОТС (Новосибирск)
+#EXTGRP:Региональные
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:0,Панорама ТВ (Тверь)
+#EXTGRP:Региональные
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
+#EXTINF:0,Первый городской (Киров)
+#EXTGRP:Региональные
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8
+#EXTINF:0,Первый городской (Омск)
+#EXTGRP:Региональные
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
+#EXTINF:0,Первый Тульский HD
+#EXTGRP:Региональные
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
+#EXTINF:0,Первый Ярославский
+#EXTGRP:Региональные
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+#EXTINF:0,Прима (Красноярск)
+#EXTGRP:Региональные
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:0,Про жизнь (Прокопьевск)
+#EXTGRP:Региональные
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NVKZ_PROJIZN/variant.m3u8
+#EXTINF:0,Продвижение (Ленинск)
+#EXTGRP:Региональные
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_PPRODVIJENIE_KEMR/variant.m3u8
+#EXTINF:0,Пыть-Яхинформ-Продвижение (Нижневартовск)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PYT-YAHINFORM/variant.m3u8
+#EXTINF:0,РГВК Дагестан
+#EXTGRP:Региональные
+https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
+#EXTINF:0,Регион 29 (Архангельск)
+#EXTGRP:Региональные
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+#EXTINF:0,Репортер 73 (Ульяновск)
+#EXTGRP:Региональные
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:0,РИМ (Каменск-Уральский)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+#EXTINF:0,Рифей-ТВ (Пермь)
+#EXTGRP:Региональные
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:0,РТС (Хакасия)
+#EXTGRP:Региональные
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+#EXTINF:0,Русский Север (Вологда)
+#EXTGRP:Региональные
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:0,Русь (Кострома)
+#EXTGRP:Региональные
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+#EXTINF:0,Рыбинск-40 (Рыбинск)
+#EXTGRP:Региональные
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:0,С1 (Сургут)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:0,Самара 24
+#EXTGRP:Региональные
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+#EXTINF:0,Самара-ГИС
+#EXTGRP:Региональные
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_SAMARAGIS/variant.m3u8
+#EXTINF:0,Самотлор (Нижневартовск)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
+#EXTINF:0,Сампо ТВ 360° (Петрозаводск)
+#EXTGRP:Региональные
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:Региональные
+https://a787201987-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/playlist.m3u8
+#EXTINF:0,Саратов-24
+#EXTGRP:Региональные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+#EXTINF:0,Саха (Якутск)
+#EXTGRP:Региональные
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:0,Своё ТВ Ставрополь HD
+#EXTGRP:Региональные
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+#EXTINF:0,СиТВ (Новый Уренгой)
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIGMATV/variant.m3u8
+#EXTINF:0,Сочи 24
+#EXTGRP:Региональные
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:0,Союз-ТВ (Чусовой)
+#EXTGRP:Региональные
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_SOYUZ_URAL_CHUS/variant.m3u8
+#EXTINF:0,Сургут 24
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
+#EXTINF:0,Тагил ТВ
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
+#EXTINF:0,Татарстан-24
+#EXTGRP:Региональные
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+#EXTINF:0,Татарстан-24 (Казань)
+#EXTGRP:Региональные
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KZN_EFIR24/variant.m3u8
+#EXTINF:0,ТВ Богданович
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BOGDNCHTV/variant.m3u8
+#EXTINF:0,ТВ-ИН (Магнитогорск)
+#EXTGRP:Региональные
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:0,ТВ-Карибу (Магадан)
+#EXTGRP:Региональные
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_OTTKARIBU/variant.m3u8
+#EXTINF:0,ТВ7 (Абакан)
+#EXTGRP:Региональные
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+#EXTINF:0,Телекон 24 (Нижний Тагил)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKON24_URAL_EKT/variant.m3u8
+#EXTINF:0,Телемикс (Владивосток)
+#EXTGRP:Региональные
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_TMX/variant.m3u8
+#EXTINF:0,Тивиком (Улан-Удэ)
+#EXTGRP:Региональные
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_TIVICOM/variant.m3u8
+#EXTINF:0,Тивиком HD (Улан-Удэ)
+#EXTGRP:Региональные
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:0,ТКР (Рязань)
+#EXTGRP:Региональные
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:0,ТНВ-Татарстан (Казань)
+#EXTGRP:Региональные
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+#EXTINF:0,ТНР24 (Нижневартовск)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+#EXTINF:0,ТНР7 (Нижневартовск)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R02_OTT_TNR7/variant.m3u8
+#EXTINF:0,Тобольское время (Тобольск)
+#EXTGRP:Региональные
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
+#EXTINF:0,Тольятти-24 (Самара)
+#EXTGRP:Региональные
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:0,Томское время
+#EXTGRP:Региональные
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTINF:0,ТРК Братск 360 (Братск)
+#EXTGRP:Региональные
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_BRATSK360/variant.m3u8
+#EXTINF:0,ТРК Юганск (Нефтеюганск)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
+#EXTINF:0,ТСН 24-Тула 24 (Тула)
+#EXTGRP:Региональные
+https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TULA24/variant.m3u8
+#EXTINF:0,ТСТ (Иркутск)
+#EXTGRP:Региональные
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
+#EXTINF:0,Туринская телекомпания Вектор (Туринск)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
+#EXTINF:0,ТЫНДА
+#EXTGRP:Региональные
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_TYNDATV/variant.m3u8
+#EXTINF:0,Тюменское время
+#EXTGRP:Региональные
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:0,Удмуртия (Ижевск)
+#EXTGRP:Региональные
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_IZHSK_MYUDMURTIA/variant.m3u8
+#EXTINF:0,Удмуртия (Ижевск)
+#EXTGRP:Региональные
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+#EXTINF:0,Ульяновская правда (Ульяновск)
+#EXTGRP:Региональные
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+#EXTINF:0,Хабар 24 HD
+#EXTGRP:Региональные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_HABARHD/variant.m3u8
+#EXTINF:0,Хабаровск
+#EXTGRP:Региональные
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_HABAROVSK/variant.m3u8
+#EXTINF:0,Чаваш Ен (Чебоксары)
+#EXTGRP:Региональные
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+#EXTINF:0,Чаваш Ен (Чебоксары)
+#EXTGRP:Региональные
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8
+#EXTINF:0,Чехов ТВ (Чехов)
+#EXTGRP:Региональные
+https://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
+#EXTINF:0,Шахты ТВ (Шахты)
+#EXTGRP:Региональные
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_SHAHTY/variant.m3u8
+#EXTINF:0,Экспресс (Пенза)
+#EXTGRP:Региональные
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:0,Эра ТВ (Екатеринбург)
+#EXTGRP:Региональные
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_TNT4_EKT/variant.m3u8
+#EXTINF:0,Эфир (Казань)
+#EXTGRP:Региональные
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+#EXTINF:0,Югра (Тюмень)
+#EXTGRP:Региональные
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+#EXTINF:0,Юрган (Сыктывкар)
+#EXTGRP:Региональные
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+#EXTINF:0,ЮТВ (Чебоксары)
+#EXTGRP:Региональные
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+#EXTINF:0,ЮТВ (Чебоксары)
+#EXTGRP:Региональные
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
+#EXTINF:0,Якутия 24
+#EXTGRP:Региональные
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:0,Ямал Регион
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:0,Ямал-1
+#EXTGRP:Региональные
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:0,2x2
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0,360° HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8
+#EXTINF:0,8 канал
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_8KANAL/variant.m3u8
+#EXTINF:0,FashionTV HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FASHIONTVHD/variant.m3u8
+#EXTINF:0,Gagsnetwork HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/variant.m3u8
+#EXTINF:0,Shant Premium HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTPREMIUMHD/variant.m3u8
+#EXTINF:0,WOMEN’S MAGAZINE
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WOMENSMAGAZINEHD/variant.m3u8
+#EXTINF:0,World Fashion Channel HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WFCHD/variant.m3u8
+#EXTINF:0,Анекдот ТВ
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8
+#EXTINF:0,Всё ТВ
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:0,ЖиВи! HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZHIVIHD/variant.m3u8
+#EXTINF:0,Зал суда HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KALEJDOSKOPTV/variant.m3u8
+#EXTINF:0,Лапки LIVE
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LAPKILIVEHD/variant.m3u8
+#EXTINF:0,Народ Всё Видит
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NVV/variant.m3u8
+#EXTINF:0,Новый Игровой Канал
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NIK/variant.m3u8
+#EXTINF:0,НТВ Право
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPRAVO/variant.m3u8
+#EXTINF:0,НТВ Стиль
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTVSTYLE/variant.m3u8
+#EXTINF:0,Победа HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_POBEDAHD/variant.m3u8
+#EXTINF:0,ПРНК HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERVIJNATSIONALNIYHD/variant.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Пятница! HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZAHD_OTT/variant.m3u8
+#EXTINF:0,Ретро
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8
+#EXTINF:0,Русский корабль HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSHIPHD/variant.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0,СТС Love
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0,Суббота! HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPERHD_OTT/variant.m3u8
+#EXTINF:0,Тайна
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TAJNA/variant.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4HD_OTT/variant.m3u8
+#EXTINF:0,Эхо-ТВ
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ECHOTV/variant.m3u8
+#EXTINF:0,Ю
+#EXTGRP:Развлекательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:0,2x2 (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:0,2x2 (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:0,2x2 (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:0,viju TV1000 (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD_2/variant.m3u8
+#EXTINF:0,viju TV1000 (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD_4/variant.m3u8
+#EXTINF:0,viju TV1000 (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD_7/variant.m3u8
+#EXTINF:0,viju TV1000 Action (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD_2/variant.m3u8
+#EXTINF:0,viju TV1000 Action (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD_4/variant.m3u8
+#EXTINF:0,viju TV1000 Action (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD_7/variant.m3u8
+#EXTINF:0,viju TV1000 Русское (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEHD_2/variant.m3u8
+#EXTINF:0,viju TV1000 Русское (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEHD_4/variant.m3u8
+#EXTINF:0,viju TV1000 Русское (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEHD_7/variant.m3u8
+#EXTINF:0,Домашний (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:0,Домашний (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:0,Домашний (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:0,Звезда (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:0,Звезда (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:0,Звезда (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:0,Карусель (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:0,Карусель (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:0,Карусель (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:0,Кино ТВ HD (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD_7/variant.m3u8
+#EXTINF:0,Мир (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:0,Мир (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:0,Мир (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD_2/variant.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSFILMHD_4/variant.m3u8
+#EXTINF:0,Муз ТВ (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:0,Муз ТВ (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:0,Муз ТВ (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:0,НТВ (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:0,НТВ (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:0,ОТР (+4)
+#EXTGRP:Часовые
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_OTR_NSO/variant.m3u8?version=2
+#EXTINF:0,ОТР (+5)
+#EXTGRP:Часовые
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_OTR/variant.m3u8?version=2
+#EXTINF:0,Первый канал (+1)
+#EXTGRP:Часовые
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:0,Первый канал (+3)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+#EXTINF:0,Первый канал (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:0,Первый канал (+5)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:0,Первый канал (+6)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:0,Первый канал (+7)
+#EXTGRP:Часовые
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:0,Первый канал (+8)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:0,Пятница! (+2)
+#EXTGRP:Часовые
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_ROSSIA1/variant.m3u8
+#EXTINF:0,Пятница! (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:0,Пятый канал (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:0,Пятый канал (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:0,Пятый канал (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:0,РЕН ТВ (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:0,Россия 1 (+1)
+#EXTGRP:Часовые
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 (+1))
+#EXTGRP:Часовые
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:0,Россия 1 (+3)
+#EXTGRP:Часовые
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:0,Россия 1 (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:0,Россия 1 (+6)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:0,Россия 1 (+7)
+#EXTGRP:Часовые
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 (+8)
+#EXTGRP:Часовые
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия К (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:0,Россия К (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:0,Спас (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:0,Спас (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+#EXTINF:0,СТС (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:0,СТС (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:0,СТС Love (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:0,СТС Love (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:0,Суббота! (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:0,Суббота! (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:0,Суббота! (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:0,ТВ 3 (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:0,ТВ 3 (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:0,ТВ Центр (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:0,ТВ Центр (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:0,ТНТ4 (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:0,ТНТ4 (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:0,ТНТ4 (+7)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:0,Че (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:0,Че (+2)
+#EXTGRP:Часовые
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:0,Че (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:0,Ю (+2)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:0,Ю (+4)
+#EXTGRP:Часовые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:0,360° Новости HD
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8
+#EXTINF:0,CCTV-4
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CCTV4/variant.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNENG/variant.m3u8
+#EXTINF:0,CGTN Русский
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CGTNRUS/variant.m3u8
+#EXTINF:0,TV BRICS HD
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVBRICSHD/variant.m3u8
+#EXTINF:0,Беларусь 24
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BELARUS24/variant.m3u8
+#EXTINF:0,БелРос
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRO/variant.m3u8
+#EXTINF:0,ВМЕСТЕ-РФ
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SOVETFEDERATSII/variant.m3u8
+#EXTINF:0,Дума ТВ
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DUMATV/variant.m3u8
+#EXTINF:0,Известия HD
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8
+#EXTINF:0,Красная Линия
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLINE/variant.m3u8
+#EXTINF:0,ЛДПР ТВ
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LDPR/variant.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR24/variant.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RBKTVHD/variant.m3u8
+#EXTINF:0,СОЛОВЬЁВLIVE
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8
+#EXTINF:0,Центральное телевидение
+#EXTGRP:Информационные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CENTRALTV/variant.m3u8
+#EXTINF:0,AIVA HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/variant.m3u8
+#EXTINF:0,BRIDGE
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8
+#EXTINF:0,BRIDGE CLASSIC
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8
+#EXTINF:0,BRIDGE Deluxe HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8
+#EXTINF:0,BRIDGE HITS
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8
+#EXTINF:0,Bridge Rock
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEROCK/variant.m3u8
+#EXTINF:0,Bridge TV Фрэш
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEFRESH/variant.m3u8
+#EXTINF:0,BRIDGE Русский Хит
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8
+#EXTINF:0,BRIDGE Шлягер
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVSHLYAGER/variant.m3u8
+#EXTINF:0,Europa Plus TV HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSHD/variant.m3u8
+#EXTINF:0,MCM TOP
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MCMTOP/variant.m3u8
+#EXTINF:0,Mezzo
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZOHD/variant.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8
+#EXTINF:0,MUSIC BOX GOLD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8
+#EXTINF:0,MUSIC BOX RUSSIAN HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8
+#EXTINF:0,RU TV
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8
+#EXTINF:0,Shant Music HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTMUSICHD/variant.m3u8
+#EXTINF:0,SongTV Armenia
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVARMHD/variant.m3u8
+#EXTINF:0,SongTV Russia
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SONGTVRUSHD/variant.m3u8
+#EXTINF:0,Восток ТВ
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VOSTOKTV/variant.m3u8
+#EXTINF:0,Жар Птица
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JARPTIZA/variant.m3u8
+#EXTINF:0,ЖАРА HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8
+#EXTINF:0,Ля-минор
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8
+#EXTINF:0,Муз ТВ
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:0,МУЗ-ТВ HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZHD/variant.m3u8
+#EXTINF:0,Музыка Первого
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZYKAPERVOGO/variant.m3u8
+#EXTINF:0,О2ТВ HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_O2TVHD/variant.m3u8
+#EXTINF:0,Телеканал народной музыки HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NARODNAYAMUZIKAHD/variant.m3u8
+#EXTINF:0,ТНТ MUSIC HD
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTMUSICHD/variant.m3u8
+#EXTINF:0,Шансон ТВ
+#EXTGRP:Музыка
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8
+#EXTINF:0,Ani
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ANI/variant.m3u8
+#EXTINF:0,Cartoon Classics
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOONCLASSICS/variant.m3u8
+#EXTINF:0,Duck TV HD
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DUCKTVHD/variant.m3u8
+#EXTINF:0,FAN HD
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FANHD/variant.m3u8
+#EXTINF:0,Gulli Girl
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GULLI/variant.m3u8
+#EXTINF:0,Shant Kids HD
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHANTKIDSHD/variant.m3u8
+#EXTINF:0,Sumiko
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUMIKOHD/variant.m3u8
+#EXTINF:0,TiJi
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TIJI/variant.m3u8
+#EXTINF:0,В гостях у сказки
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8
+#EXTINF:0,Детский Мир
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/variant.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель HD
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSELHD/variant.m3u8
+#EXTINF:0,КиноМульт
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOMULT/variant.m3u8
+#EXTINF:0,Лёва
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LEVAHD/variant.m3u8
+#EXTINF:0,МУЛЬТ
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8
+#EXTINF:0,МУЛЬТ HD
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MULTIMANIA/variant.m3u8
+#EXTINF:0,Мультимузыка
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STRANA/variant.m3u8
+#EXTINF:0,О!
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_O/variant.m3u8
+#EXTINF:0,Радость Моя
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADOSTMOYA/variant.m3u8
+#EXTINF:0,СОЛНЦЕ
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_OTT/variant.m3u8
+#EXTINF:0,Солнце (+2)
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:0,Солнце (+4)
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:0,Солнце (+7)
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:0,СТС Kids HD
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8
+#EXTINF:0,СуперГерои
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MALYSHTV/variant.m3u8
+#EXTINF:0,Уникум
+#EXTGRP:Детские
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8
+#EXTINF:0,Babes TV
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/variant.m3u8
+#EXTINF:0,Barely Legal
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BARELYLEGAL/variant.m3u8
+#EXTINF:0,blue HUSTLER
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BLUEHUSTLER/variant.m3u8
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BRAZZERSTV/variant.m3u8
+#EXTINF:0,Exxxotica HD
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8
+#EXTINF:0,French Lover TV
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRENCHLOVER/variant.m3u8
+#EXTINF:0,O-la-la
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OLALAHD/variant.m3u8
+#EXTINF:0,Red Lips HD
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_REDLIPSHD/variant.m3u8
+#EXTINF:0,Русская ночь
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/variant.m3u8
+#EXTINF:0,Шалун HD
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/variant.m3u8
+#EXTINF:0,Шёлк
+#EXTGRP:Взрослые
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHELKHD/variant.m3u8
+#EXTINF:0,Comedy Radio
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOCOMEDY/variant.m3u8
+#EXTINF:0,Авторадио
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOAUTORADIO/variant.m3u8
+#EXTINF:0,Детское радио
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIODETSKOE/variant.m3u8
+#EXTINF:0,Радио ENERGY
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOENERGY/variant.m3u8
+#EXTINF:0,Радио Relax FM
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIORELAXFM/variant.m3u8
+#EXTINF:0,Радио Romantika
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOROMANTIKA/variant.m3u8
+#EXTINF:0,Радио Гордость
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOGORDOST/variant.m3u8
+#EXTINF:0,Юмор FM
+#EXTGRP:Радио
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RADIOYUMORFM/variant.m3u8
+#EXTINF:0,KHL HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KHLHD/variant.m3u8
+#EXTINF:0,KHL Prime
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KHLPRIMEHD/variant.m3u8
+#EXTINF:0,LIVE 1
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WINK1/variant.m3u8
+#EXTINF:0,LIVE 2
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WINK2/variant.m3u8
+#EXTINF:0,LIVE 3
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WINK3/variant.m3u8
+#EXTINF:0,LIVE 4
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_WINK4/variant.m3u8
+#EXTINF:0,MMA-TV.com
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_M1GLOBAL/variant.m3u8
+#EXTINF:0,MMA-TV.com HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MMATVHD/variant.m3u8
+#EXTINF:0,Russian Extreme HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEHD/variant.m3u8
+#EXTINF:0,Ultra Rex UHD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:0,viju+ Sport
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/variant.m3u8
+#EXTINF:0,viju+ Sport HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8
+#EXTINF:0,Авто Плюс
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8
+#EXTINF:0,Бокс ТВ
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_BOXTVHD/variant.m3u8
+#EXTINF:0,МАТЧ! HD (ОТТ)
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD_OTT/variant.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8
+#EXTINF:0,Матч! Боец HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHBOETSHD/variant.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8
+#EXTINF:0,Матч! Страна HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHSTRANAHD/variant.m3u8
+#EXTINF:0,Матч! ТВ
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0,Матч! ТВ HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/variant.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8
+#EXTINF:0,Мир Баскетбола HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRBASKETBOLAHD/variant.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTHD/variant.m3u8
+#EXTINF:0,Старт Триумф
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STARTTRIUMFHD/variant.m3u8
+#EXTINF:0,Удар HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/variant.m3u8
+#EXTINF:0,Футбол HD
+#EXTGRP:Спорт
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/variant.m3u8
+#EXTINF:0,Leomax24
+#EXTGRP:Магазины
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SHOP24/variant.m3u8
+#EXTINF:0,Shop & Show
+#EXTGRP:Магазины
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPANDSHOW/variant.m3u8
+#EXTINF:0,Shopping live
+#EXTGRP:Магазины
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SHOPPINGLIFE/variant.m3u8
+#EXTINF:0,Ювелирочка
+#EXTGRP:Магазины
+https://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/variant.m3u8
+#EXTINF:0,ВТК Аргус (Воронеж)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTINF:0,Губерния ТВ (Воронеж)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+#EXTINF:0,Домашний (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Звезда (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:0,Известия (Воронеж)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:0,НТВ (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:0,ОТР (Воронежская область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_OTR/variant.m3u8
+#EXTINF:0,Первый канал (Воронежская область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:0,Пятница (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:0,Пятый канал (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:0,РЕН ТВ (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,Россия 1 (Воронежская область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_VRZH_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 24 (Воронежская область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_ROSSIA24/variant.m3u8
+#EXTINF:0,Россия К (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:0,СТС (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:0,ТВ3 (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВЦ (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТНТ (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:0,Че (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:0,Ю (Воронежская Область)
+#EXTGRP:Воронеж
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIYHD_OTT/variant.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:0,Звезда Плюс
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDAPLUSHD/variant.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:0,ОТР HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTRHD/variant.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:0,Первый канал HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVHD_OTT/variant.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
+#EXTINF:0,РЕН ТВ HD (OTT)
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD_OTT/variant.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8
+#EXTINF:0,Россия 1 HD (ОТТ)
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1HD_OTT/variant.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:0,Россия К
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSHD_OTT/variant.m3u8
+#EXTINF:0,Суббота!
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0,ТВ 3
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0,ТВ 3 HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3HD_OTT/variant.m3u8
+#EXTINF:0,ТВ Центр
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8
+#EXTINF:0,ТНТ HD OTT
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD_OTT/variant.m3u8
+#EXTINF:0,Че
+#EXTGRP:Федеральные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0,Домашний (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Звезда (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+#EXTINF:0,Москва. Доверие
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:0,НТВ (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:0,ОТР (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:0,Первый канал (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:0,Пятница (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:0,Пятый канал (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:0,РЕН ТВ (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,Россия 1 (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 24 (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:0,Россия К (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:0,Солнце (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_DISNEY/variant.m3u8
+#EXTINF:0,СТС (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:0,СТС Love (Москва)
+#EXTGRP:Москва
+https://zabava-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
+#EXTINF:0,СТС Love (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
+#EXTINF:0,ТВ Центр (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТВ3 (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,Тео-ТВ (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF:0,ТНТ (Москва)
+#EXTGRP:Москва
+https://s18209.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:0,Че (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:0,Ю (Москва)
+#EXTGRP:Москва
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:0,Домашний (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Звезда (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:0,Истоки (Орловская область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
+#EXTINF:0,НТВ (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:0,Первый канал (Орловская область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:0,Первый областной (Орловская область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_PERVOBL/variant.m3u8
+#EXTINF:0,Пятница (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:0,Пятый канал (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:0,РЕН ТВ (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,Россия 1 (Орловская область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_ORL_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 24 (Орловская область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_ROSSIA24/variant.m3u8
+#EXTINF:0,Россия К (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:0,СТС (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:0,ТВ3 (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВЦ (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТНТ (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:0,Че (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:0,Ю (Орловская Область)
+#EXTGRP:Орёл
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:0,Спас
+#EXTGRP:Религиозные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
