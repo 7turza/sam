@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1
+#EXTINF:-1 group-title="Эфирные",НТВ +1
 https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus2",НТВ +2
+#EXTINF:-1 group-title="Эфирные",НТВ +2
 https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus4",НТВ +4
+#EXTINF:-1 group-title="Эфирные",НТВ +4
 https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7
+#EXTINF:-1 group-title="Эфирные",НТВ +7
 https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
+#EXTINF:-1 group-title="Эфирные",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право
+#EXTINF:-1 group-title="Эфирные",НТВ Право
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал
+#EXTINF:-1 group-title="Эфирные",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль
+#EXTINF:-1 group-title="Эфирные",НТВ Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
+#EXTINF:-1 group-title="Эфирные",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",Первый канал HD
 http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные", Россия 1 HD
 http://iptv46.mcx-ix.ru:8077/rossia_hd/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+#EXTINF:-1 group-title="Эфирные",ТНТ HD
 http://iptv46.mcx-ix.ru:8077/tnt_hd/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
+#EXTINF:-1 group-title="Эфирные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыкальные",ТНТ Music HD
+#EXTINF:-1 group-title="Эфирные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
