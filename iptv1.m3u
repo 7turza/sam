@@ -17,13 +17,13 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy" group-title="Эфирные",Первый канал HD
+#EXTINF:-1 group-title="Эфирные",Первый канал HD
 http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные", Россия 1 HD
+#EXTINF:-1 group-title="Эфирные", Россия 1 HD
 http://iptv46.mcx-ix.ru:8077/rossia_hd/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 http://iptv46.mcx-ix.ru:8077/tnt_hd/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music HD
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
