@@ -1,0 +1,6 @@
+#EXTINF:-1,Clubbing TV HD
+https://limehd.tv/channel/12391
+#EXTINF:-1,Кинопремьера HD
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?offset=1
+#EXTINF:-1,Кинопремьера HD без
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8
