@@ -25,5 +25,3 @@ http://iptv46.mcx-ix.ru:8077/rossia_hd/index.m3u8
 http://iptv46.mcx-ix.ru:8077/tnt_hd/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Эфирные",ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
