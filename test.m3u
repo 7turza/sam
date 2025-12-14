@@ -1,6 +1,2 @@
 #EXTINF:-1,ТВЦ HD
 http://hls.peers.tv/streaming/tvc_hd/126/tvrecw/playlist.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?offset=1
-#EXTINF:-1,Кинопремьера HD без
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8
