@@ -1,0 +1,20 @@
+#EXTINF:-1,Red Bull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,Первый музыкальный HD (рус)
+http://rtmp.one.by:2300
+#EXTINF:-1,Звезда HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Первый канал HD
+https://www.1tv.ru/live
+#EXTINF:-1,Победа HD
+https://pobeda.tv/live
+#EXTINF:-1,Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,Советское кино
+https://www.vinteratv.com/?channel=46
+#EXTINF:-1,Матч! Футбол 3 HD
+https://bolshoe.tv/promo/web/tv/190/
