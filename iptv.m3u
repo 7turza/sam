@@ -53,7 +53,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3 HD.png" group-title="Спортивные",Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU TV HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU.TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1,Первый музыкальный Россия HD
