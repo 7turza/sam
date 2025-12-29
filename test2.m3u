@@ -37,3 +37,6 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids HD.png" group-title="Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU TV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
