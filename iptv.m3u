@@ -56,7 +56,7 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:-1,Первый музыкальный HD (рус)
+#EXTINF:-1,Первый музыкальный Россия HD
 http://rtmp.one.by:2300
 #EXTINF:-1,Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
