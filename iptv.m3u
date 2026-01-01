@@ -435,3 +435,27 @@ http://hls.peers.tv/streaming/habar_24/16/copy_a/playlist.m3u8
 http://hls.peers.tv/streaming/songtv_russia/126/tvrecw/playlist.m3u8
 #EXTINF:-1,12 канал
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+#EXTINF:-1,Архыз
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1,БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/index.m3u8
+#EXTINF:-1,Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1,Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1,Своё ТВ
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1,Ингушетия ТВ
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1,TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1,Магнат ТВ
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1,Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1,Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1,Салям
+https://bsttv.bonus-tv.ru/cdn/salyamhd/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
