@@ -404,4 +404,10 @@ http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8
 #EXTINF:-1,МультСезон
 http://hls.peers.tv/streaming/childrens_cinema/16/vh1w/playlist.m3u8
 #EXTINF:-1,DuckTV
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8$id=3504
+http://hls.peers.tv/streaming/ducktv/16/h720/playlist.m3u8
+#EXTINF:-1,Russian Travel Guide
+http://hls.peers.tv/streaming/rustravel/16/copy/playlist.m3u8
+#EXTINF:-1,AnimeTV
+http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8
+#EXTINF:-1,Киномикс
+http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?offset=1
