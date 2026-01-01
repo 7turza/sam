@@ -433,3 +433,5 @@ http://hls.peers.tv/streaming/sibir_24/16/copy_a/playlist.m3u8
 http://hls.peers.tv/streaming/habar_24/16/copy_a/playlist.m3u8
 #EXTINF:-1,SONGTV Russia
 http://hls.peers.tv/streaming/songtv_russia/126/tvrecw/playlist.m3u8
+#EXTINF:-1,12 канал HD
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
