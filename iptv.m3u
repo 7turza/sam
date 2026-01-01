@@ -401,8 +401,6 @@ http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 http://hls.peers.tv/streaming/solntse/16/gvh1w/playlist.m3u8
 #EXTINF:-1,МультСезон
 http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8
-#EXTINF:-1,МультСезон
-http://hls.peers.tv/streaming/childrens_cinema/16/vh1w/playlist.m3u8
 #EXTINF:-1,DuckTV
 http://hls.peers.tv/streaming/ducktv/16/h720/playlist.m3u8
 #EXTINF:-1,Russian Travel Guide
