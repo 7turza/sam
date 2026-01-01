@@ -459,13 +459,9 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyamhd/playlist.m3u8
 #EXTINF:-1,ТНТ Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1,Первый канал HD
-https://www.1tv.ru/live
-#EXTINF:-1,Победа
-https://pobeda.tv/live
 #EXTINF:-1,Эхо TV
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1,Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1,КиноМеню HD
-https://www.vinteratv.com/?channel=294
+#EXTINF:-1,NEXT-TV
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
