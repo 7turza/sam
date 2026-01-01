@@ -407,7 +407,29 @@ http://hls.peers.tv/streaming/ducktv/16/h720/playlist.m3u8
 http://hls.peers.tv/streaming/rustravel/16/copy/playlist.m3u8
 #EXTINF:-1,AnimeTV
 http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8
-#EXTINF:-1,Киномикс
-http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8
-#EXTINF:-1,Индия
-http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?offset=1
+#EXTINF:-1,Живи активно HD
+http://hls.peers.tv/streaming/zhivi_aktivno_hd/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Живая природа HD
+http://hls.peers.tv/streaming/zhivaya_priroda_hd/16/h1080/playlist.m3u8
+#EXTINF:-1,Мультимания
+http://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8
+#EXTINF:-1,СмайликТВ
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Fashion HD
+http://hls.peers.tv/streaming/fashdon/16/copy_a/playlist.m3u8
+#EXTINF:-1,Старт
+http://hls.peers.tv/streaming/start/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Silk Way Cinema
+http://hls.peers.tv/streaming/silk_way_cinema/16/copy_a/playlist.m3u8
+#EXTINF:-1,Bridge Hits
+http://hls.peers.tv/streaming/dange_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Мы HD
+http://hls.peers.tv/streaming/mi/16/copy_a/playlist.m3u8
+#EXTINF:-1,ТВЦ HD
+http://hls.peers.tv/streaming/tvc_hd/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Сибирь 24
+http://hls.peers.tv/streaming/sibir_24/16/copy_a/playlist.m3u8
+#EXTINF:-1,24KZ HD
+http://hls.peers.tv/streaming/habar_24/16/copy_a/playlist.m3u8
+#EXTINF:-1,SONGTV Russia
+http://hls.peers.tv/streaming/songtv_russia/126/tvrecw/playlist.m3u8
