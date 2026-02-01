@@ -8,7 +8,7 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Развлекательные",ТНТ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 group-title="Общие", ТСВ Приднестровье HD
+#EXTINF:-1 group-title="Общие", ТСВ HD
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
