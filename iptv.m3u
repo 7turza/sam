@@ -8,7 +8,7 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Развлекательные",ТНТ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 group-title="Общие", ТСВ HD
+#EXTINF:-1 group-title="Общие", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -548,3 +548,83 @@ http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 ,ТИС ТВ
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 ,Байкал Универ ТВ
+https://stream01.bgu.ru/1/1/playlist.m3u8
+#EXTINF:-1 ,ЮУрГУ-ТВ
+https://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:-1 ,ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:-1 ,TV Pro
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 ,Раменское ТВ
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1 ,12 КАНАЛ (ОМСК)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 ,ТВК (Красноярск)
+https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 ,РБК
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 ,ТРК 555 HD
+http://trk555.tv:8888/live
+#EXTINF:-1 ,БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 ,Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 ,Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,С1 Сургут 86
+https://sitv.ru/hls/s86512.m3u8
+#EXTINF:-1 ,С1 Сургут HD
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 ,ТОЛК
+https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Краснодар HD
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Запад 24 HD
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+#EXTINF:-1 ,Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 ,РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1 ,Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 ,360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 ,360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 ,Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 ,Тверской Проспект Регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 ,Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 ,Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МТВ (Волгоград)
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 ,Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,НТС HD
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 ,Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 ,Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 ,ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 ,РЖД ТВ
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 ,МузСоюз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 ,TV ГУБЕРНИЯ
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Наш Дом
+http://85.234.33.63/stream/c11.m3u8
