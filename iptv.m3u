@@ -1380,5 +1380,679 @@ http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Clarity4K Единоборства",Clarity4K Единоборства
 http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1,00000000000000
-http://gr.seetv.cc/play/4611/D70CC021CA87DF2/000000000video.m3u8
+#EXTINF:-1",1+1
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Україна 2
+https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Мистер Бин
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 1
+https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 2
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 4
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 5
+https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 6
+https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 8
+https://fl1001.bozztv.com/ushba6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Музыка 9
+https://fl1001.bozztv.com/ushba42/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Мода 1
+https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Мода 2
+https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Мода 3
+https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Usba TV",Мода 5
+https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Zf73QMP4CGp_Y0HnnQD0Ng&e=1770322468&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN", TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=wbw5yj9dM1UPoc-Bu7fomA&e=1770322507&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=45ox-4V4D_hnHBsfG1rKOA&e=1770322447&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Viju+ Comedy HD
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Funny
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="KINO+📺",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="KINO+📺",КИНОСВИДАНИЕ
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="KINO+📺",Мужское Кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="KINO+📺",Viasat Kino COMEDY
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 Русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Action TVOE Kino
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Xit TVOE Kino
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сine+ legend
+http://193.27.209.122/cine_plus_legend/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино ТВ
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="KINO+📺",Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Bollywood HD
+http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Zee TV
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="KINO+📺",Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="KINO+📺",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="KINO+📺",Amedia Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 group-title="KINO+📺",.SCI-FI
+http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 group-title="KINO+📺",Sci-Fi HD
+http://188.237.47.212:6001
+#EXTINF:-1 group-title="KINO+📺",Black HD
+http://188.237.47.212:6007
+#EXTINF:-1 group-title="KINO+📺",black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="KINO+📺",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Сериал Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV-1 KG Бишкек CITY
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺",dizi
+http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Дом кино премиум HD
+http://88.135.128.20:8090/domkinopremium/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Наше Новое Кино
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 group-title="KINO+📺",Мир Сериала
+http://88.135.128.20:8090/mirseriala/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Феникс+Кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="KINO+📺",Че!
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",ТВ3
+http://176.118.197.101/TB3/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",РОМАН
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Пятница! International
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 group-title="KINO+📺",Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="KINO+📺",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ностальгия 
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Марафон UA
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна
+http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
+#EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",5 Канал HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший Закарпатьский
+http://91.226.35.134:8081/PK 
+#EXTINF:-1 group-title="Україна 🇺🇦",24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",СK 1 
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Renome 
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Україна 🇺🇦",33 канал
+https://33news.org/33chanel/live/chunklist_w459617257.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший міський Кривий Ріг
+https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 tvg-id="2100" tvg-logo="http://epg.it999.ru/img/2100.png" group-title="UA-TEST",K1 HD
+http://newsr1.roshen.live:8080/WWYSzjxhcA/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 tvg-id="2099" tvg-logo="http://epg.it999.ru/img/2099.png" group-title="UA-TEST",K2 HD
+http://newsr1.roshen.live:8080/jmOF7Jpnmm/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 tvg-id="3320" tvg-logo="http://epg.it999.ru/img/3320.png" group-title="UA-TEST",1+1 International
+http://newsr1.roshen.live:8080/dGnp21flch/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 tvg-id="2217" tvg-logo="http://epg.it999.ru/img/2217.png" group-title="UA-TEST",Уніан
+http://newsr1.roshen.live:8080/SfabiXMgHe/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 tvg-id="2171" tvg-logo="http://epg.it999.ru/img/2171.png" group-title="UA-TEST",ТЕТ
+http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 tvg-id="2105" tvg-logo="http://epg.it999.ru/img/2105.png" group-title="UA-TEST",HTH
+http://newsr1.roshen.live:8080/7zaKQPjVK9/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 group-title="UA-TEST",ФАУНА
+http://newsr1.roshen.live:8080/qDLtAGT3uO/video.m3u8?token=e2yXlI53mZEwBRDT
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Realitatea TV
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Moldova TV
+http://89.38.8.130:39435
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",TVN
+https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Prima News
+http://185.164.82.18:9009/aDxLhVQm_PrimaNews
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Cinemaraton
+http://185.164.82.18:9009/aDxLhVQm_Cinematron
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",7TV
+http://185.164.82.18:9009/aDxLhVQm_7TV
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Prima Tv Moldova
+http://185.164.82.18:9009/aDxLhVQm_PrimaTVMoldova
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",BUSUIOC
+http://185.164.82.18:9009/aDxLhVQm_Busuioc
+#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Драйв
+http://185.164.82.18:9009/aDxLhVQm_Drive
+#EXTINF:-1 group-title="Узбекистан (🇺🇿)",Futbol TV
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytv.do.am/logo/deltamusic1.png" group-title="Армения 🇦🇲",Delta Music
+http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
+#EXTINF:-1 group-title="Грузия 🇬🇪",1 არხი განათლება
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://raw.githubusercontent.com/lowa8026-cmyk/iptv-2/refs/heads/main/62cber7kouetyujd77hkoisjtwewoyu83.jpg" ,Polsat 2
+https://s7.vizja.cc/Polsat2/index.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Afrobeats 247
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Франция 🇫🇷",CANAL 9
+https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",DE-Baden-TV+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Италия 🇮🇹",Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viju explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
+http://185.164.82.18:9010/ykMHqK_NatGeoWild
+#EXTINF:-1 group-title="CHILDREN'S",Duck TV HD
+http://193.27.209.122/ducktv/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",TiJi 
+http://193.27.209.122/tiji/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",CHD.TV
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Da vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="CHILDREN'S",Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="Cloudflare_Inc",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Русский Сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4k Deep House
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K World Music 
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Звериный мир
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Путешествие
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc", Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",VIP Megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Футбол
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Матч ТВ
+http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",RTG TV
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наука
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Бобер
+http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 group-title="Internet42 LLC", TLC HD
+http://176.118.197.125/TLC-HD/index.m3u8
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",1+1 HD
+http://cdn-bal.srv4you.net/0151/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",ІНТЕР HD
+http://cdn-bal.srv4you.net/0153/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",2+2 HD
+http://cdn-bal.srv4you.net/0152/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",НТН HD
+http://cdn-bal.srv4you.net/0157/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",K1 HD
+http://cdn-bal.srv4you.net/0158/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",K2 HD
+http://cdn-bal.srv4you.net/0169/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",160 HD
+http://cdn-bal.srv4you.net/0160/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",ТЕТ HD
+http://cdn-bal.srv4you.net/0164/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",MEGA HD
+http://cdn-bal.srv4you.net/0171/mpegts
+#EXTINF:-1 group-title="EUROHOSTER Ltd (VPN)",ЕСПРЕСО HD
+http://cdn-bal.srv4you.net/0154/mpegts
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-29/f1/b1/f1b1d9320fd9eb8d06ce6c5a4bd5154c.jpg", Прости детка (2026)
+https://river-1.rutube.ru/hls-vod/EW9aaVFwCRIDa6rSlx5odg/1770479354/3300/0x5000c500e9dc0ed6/1ac283a6f16149b697ab43daa71a5a63.mp4.m3u8?i=1920x872_1772
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-24/31/36/313627c3bc71a4c7e2fc605179c3c196.jpg", Спрингстин Избавь меня от небытия (2026)
+https://river-1.rutube.ru/hls-vod/Y9NDvZZPb12m39mCfHzeWA/1770479357/2219/0x5000c50074464098/4d5aea7fc1944b8f8274827384ab05f8.mp4.m3u8?i=1920x800_2169
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/87/3c/873c2432c2631021462914e90c7617b4.jpg", Стрелок (2025)
+https://river-1.rutube.ru/hls-vod/ARUlMqmwgwQGeg2VFm-RIw/1770479360/2652/0x5000039ce87039e9/3916d4ead7c04285b99d50c6b940113b.mp4.m3u8?i=1920x1080_2736
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-24/e5/38/e538d9a49a35538f5a812c9cd7f68039.jpg", Ромерия (2025)
+https://river-1.rutube.ru/hls-vod/7sgukIFjXysNF0egrqOuOg/1770479363/3358/0x5000c500e873b3f2/b10b3e7f20a14a7ea8a366506d9f7452.mp4.m3u8?i=1920x1080_2018
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-23/b6/b7/b6b72b21374904bbd0af488ed62274fe.jpg", Пес 51 (2025)
+https://river-1.rutube.ru/hls-vod/yC-hsSS81D_9W7GKzY5gPw/1770479365/3266/0x5000c500e9cdd61f/3c0475671d19445ebe9976d764d7546f.mp4.m3u8?i=1920x800_3134
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/24/31/2431fd132e908a606fc5d6b42640708c.jpg", Мортимеры (2025)
+https://river-1.rutube.ru/hls-vod/j6zV81CXSM9Qb8J6O1dmBQ/1770479369/3342/0x5000c500e9ee0628/9aed7b385f7740d1a346b5b4c94c50f6.mp4.m3u8?i=848x352_580
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/c6/9e/c69e8a1218e91738cd6fad94586da7bd.jpg", Наши девочки (2025)
+https://river-1.rutube.ru/hls-vod/AlMUPnXcgrMI8_w0r3se5A/1770479373/2716/0x5000039ce86333c5/4205ca4399dc4e9db77a4fd35a3daa4a.mp4.m3u8?i=848x456_543
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/50/32/5032d37e199373fee8ba9e929da9cb30.jpg", Гном - Новое начало (2025)
+https://river-1.rutube.ru/hls-vod/hWP6jsj9gNQ-U_P17h5o3g/1770479376/3320/0x5000c500e9ebbfc2/e52e5f39869c4e48a8d282c19d740f03.mp4.m3u8?i=848x352_501
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/96/05/960549a05b911c1d55dd7151ea4804ac.jpg", Кока девочки (2025)
+https://river-1.rutube.ru/hls-vod/d6BpYxk8558iDQ43VH1rfw/1770479379/3380/0x5000c500fa6e8d2f/0172c672c6484d6ebd5f65f85e9c8573.mp4.m3u8?i=848x352_595
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/34/4f/344f1db695c4b625077f2c69ac4f21be.jpg", Неукротимые (2025)
+https://river-1.rutube.ru/hls-vod/IpO6boIzk7a5dR0-GNzgUA/1770479383/2448/0x5000c500e8774f9b/c013f33e8cbc455d98d7c6b86d78a861.mp4.m3u8?i=848x456_573
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/3f/69/3f69b1127a719ac23f65c46f9e54f419.jpg", Север (2025)
+https://river-1.rutube.ru/hls-vod/6mjqKGhVQmyLvlYGxYTKLg/1770479385/3412/0x5000c500fa916c9d/15f031256049433c814f3b9dd3bf110d.mp4.m3u8?i=848x352_448
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/82/66/82666a0ec3b4f53788b308ea56491cc7.jpg", Девушки мечты (2025)
+https://river-1.rutube.ru/hls-vod/eq7DPK2YUCy9Qks5YTSeCg/1770479387/1778/0x5000c500dc5f6a54/2deddb3572ee40c7b2371443d34f31c5.mp4.m3u8?i=848x480_543
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-25/96/89/9689c53d86fc1e582e2d3387971da16c.jpg", Последний вздох (2025)
+https://river-1.rutube.ru/hls-vod/O9jc3I2YP8ai1EjuVJJMUA/1770479393/1861/0x5000c500e53c9cd3/9c6682c78afc496bad5aa8cb15d24129.mp4.m3u8?i=848x456_614
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-26/5a/6e/5a6e07f68f2d52e21eb1efbca44f488f.jpg", Прилипала (2025)
+https://river-1.rutube.ru/hls-vod/GfNDqAw7NBDHcAZi8HBBzA/1770479404/2474/0x5000c500e882db8f/4bef01b06cae4851a1d31d512e24adca.mp4.m3u8?i=1280x720_754
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-26/dd/c6/ddc6e02a1fa1591408a0033de5881856.jpg", Грандиозная подделка (2026)
+https://river-1.rutube.ru/hls-vod/hch3d277R6BAfxs50f06XQ/1770479412/2446/0x5000c500e882c408/407b06f4e7054858b9272b56df2695c8.mp4.m3u8?i=1920x1080_2543
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-27/03/cb/03cb60b14fcf8b72c3284ba588689ae1.jpg", Анаконда (2025)
+https://river-1.rutube.ru/hls-vod/TRby4FVi_uh_skvwmpCXJQ/1770479419/3368/0x5000c500fa6e5b2c/53d7ad58da1d41969c51eaf7dd084859.mp4.m3u8?i=1920x800_2310
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-29/e9/68/e968f3c64776eadac1723970613e70b5.jpg", Информатор (2025)
+https://river-1.rutube.ru/hls-vod/ME49X8dhIMsgi5ub332dDQ/1770479421/2602/0x5000039ce863c8c9/6de12b763a0a47c5bf975f2d65a7c74f.mp4.m3u8?i=1920x1080_1664
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-27/2d/e1/2de161917093d9ad62de15db0fb729fc.jpg", Руки (2026)
+https://river-1.rutube.ru/hls-vod/DoiR5jaqBMPmfYv_xNUZDQ/1770479432/1887/0x5000c500e4a1ee21/0323e43ed7bf45cf96ffcf4c243e666d.mp4.m3u8?i=1920x1080_1826
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-30/01/2c/012c730b13244e079d242568a4f1bd23.jpg", Не моргай (2025)
+https://river-1.rutube.ru/hls-vod/Ndouy06tP-IOccXmpqqmyQ/1770479450/2734/0x5000039ce8637319/d0a59dda68ac481289c3322afb8ce712.mp4.m3u8?i=1920x1080_1821
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-30/dd/db/dddba17f0a58370a670d85d5ceb715a8.jpg", Опасный дуэт (2026)
+https://river-1.rutube.ru/hls-vod/cWyab8yO827NQ9olAQ6fGw/1770479466/2225/0x5000c500e7513bd8/99b2ddb96ef74e528ab733825443baf8.mp4.m3u8?i=1920x800_4470
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-18/73/b9/73b9e5d52f8129ccc9f21fc2450abe29.jpg", Семья в аренду (2026)
+https://river-1.rutube.ru/hls-vod/Uv1s4YYmC39RCLdDb0RzKA/1770479485/3344/0x5000c500e9cf30b1/b0c69c7ff76c49ca8a53af33628910b5.mp4.m3u8?i=1920x1080_2890
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-12/72/3b/723b605fe644a1ce8218ac2e34961460.jpg", Истребитель демонов: Бесконечная крепость (2025)
+https://river-1.rutube.ru/hls-vod/Twceb-UzsIXC2Tzie99G8A/1770479492/3304/0x5000c500e9d36635/607664475e8b47fbabf556fe98e060e6.mp4.m3u8?i=1920x1080_3225
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-12/1e/ec/1eecb4a2a1c4329ae707454efd3eb373.jpg", Затерянные в раю (2025)
+https://river-1.rutube.ru/hls-vod/KwqX7noN5DxhDWfv0-z7vg/1770479505/3374/0x5000c500fa6e5a68/2ad44c18254c4830a6047e398f53bcf4.mp4.m3u8?i=1920x1080_4746
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-18/8b/f1/8bf10c9bc896f3b1517a44f537098d5e.jpg", Миллион (2025)
+https://river-1.rutube.ru/hls-vod/6_0UqkGVJr5K-RoMcyV1Qg/1770479509/3362/0x5000c500fa77ecd7/86948401815542f49541fc4fcc927015.mp4.m3u8?i=1280x536_993
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-13/f3/e6/f3e690721bc4145830cb06ea21a1d789.jpg", Канун нового страха (2025)
+https://river-1.rutube.ru/hls-vod/l41KXe8vPhppPM1oQu2Cig/1770479511/3412/0x5000c500fa90c546/be8f493b061c45cbb36d74053e1dddce.mp4.m3u8?i=1280x720_971
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-18/f9/9e/f99eb9d535503b3f65d1ada4b481e040.jpg", Мелодия их мечты (2025)
+https://river-1.rutube.ru/hls-vod/lim1SZULDzvBM-OPuNpdHw/1770479513/3384/0x5000c500fa776c59/6a9bb4d8f307493680a3206e3dd7d214.mp4.m3u8?i=1280x688_1422
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-21/75/8e/758e4c01c9e898ea5c89449ac77eafb3.jpg", Никто не узнает (2025)
+https://river-1.rutube.ru/hls-vod/CnHLiR6odsFPPo7RKPx5xQ/1770479515/2594/0x5000039ce8612865/47b1f5902e4c4959848626cf8a027f0e.mp4.m3u8?i=1920x800_1213
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-22/d1/e5/d1e55692e002fcc5159ac2e18b7237a8.jpg", Дорога в никуда (2025)
+https://river-1.rutube.ru/hls-vod/mGHfCVxHcdpWvPuohBU7cA/1770479518/1881/0x5000c500e5390f70/53d54185b0494d80b1b9008294ffb8c2.mp4.m3u8?i=1920x800_1503
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-21/51/5b/515bf7be69f8771d3e60672cf9250156.jpg", Погрузись (2025)
+https://river-1.rutube.ru/hls-vod/_oVFaA2ME2SWrsA7tjDRYQ/1770479522/3332/0x5000c500e9cf61ae/507d46d59f2945b58be54dccc546fa2f.mp4.m3u8?i=1920x1080_2548
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-22/db/e2/dbe234763c5209728ef07ac6dae8162d.jpg", Двойное мороженое (2025)
+https://river-1.rutube.ru/hls-vod/cTZCI7UX4p9ZhvDtn0hqKw/1770479526/2574/0x5000039ce838b731/9db184ba14a347759ac3f6f19d880869.mp4.m3u8?i=1920x1080_3999
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-23/80/1a/801a3c4dc3a2ee6bc74dafb841f7d13b.jpg", Простая случайность (2025)
+https://river-1.rutube.ru/hls-vod/onb9YNdJmHr-hznSzs5paw/1770479529/2690/0x5000039ce86826a1/b51f98afaba847c2ba083ca0a61e93eb.mp4.m3u8?i=1280x688_874
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-24/d8/7c/d87c04d30fcb2beb64ef8a95858677da.jpg", Соседка (2025)
+https://river-1.rutube.ru/hls-vod/3Vt_c8EbNMUuEkvwbqD82g/1770479532/1786/0x5000c500db16a07f/e463f0bf270b4f23b215a3355f2d3c14.mp4.m3u8?i=1920x1080_3078
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-24/87/08/870837ca3f84ed15b7dde1e14bc0a99a.jpg", Одно за другим (2025)
+https://river-1.rutube.ru/hls-vod/LVpqgVKXj194r8zt1p_tUA/1770479536/2452/0x5000c500e883a1b1/936adead9d9445c78fd13f9bc7011a13.mp4.m3u8?i=1920x800_2365
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-24/85/24/8524b7abb685177a7f7810abccd912b0.jpg", Мать мух (2025)
+https://river-1.rutube.ru/hls-vod/_7bBm4-pHLDd8X415E67TA/1770479540/1770/0x5000c500c6fe42ea/4e31d537ef9d4baea65eeb09c46f0d8c.mp4.m3u8?i=1920x1080_4279
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-16/ff/f1/fff19290d322a54cce30c6541522e168.jpg", Лакомый кусок (2026)
+https://river-1.rutube.ru/hls-vod/TG1dKLdi6zUMHgAXhcBuzQ/1770479543/3342/0x5000c500e9ee0214/8cd9f260be55431e90b43b1228edb0a7.mp4.m3u8?i=1920x1080_1766
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-09/b2/33/b2333a7a3150200b770fa74a835349b5.jpg", Рождество на дежурстве (2025)
+https://river-1.rutube.ru/hls-vod/7OFVLftb52icpnu-prljGw/1770479545/3298/0x5000c500e9ebd853/2bcec29665be46fea2246a284a1f51e3.mp4.m3u8?i=1920x1080_3091
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-10/87/2f/872f17b1b1933010845f88b770289ae2.jpg", Жизнь дерьмо (2025)
+https://river-1.rutube.ru/hls-vod/3ghIIqBhAaUbdjoCRKj0Sw/1770479549/3370/0x5000c500fa77a5f3/8130706de72b4eab8968e043bd58bd96.mp4.m3u8?i=1920x1040_4284
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-14/4d/5f/4d5fe6a63c77756ccfed33d94248fd42.jpg", Коннемара (2025)
+https://river-1.rutube.ru/hls-vod/ZTmB771klkta8IJENDIqrg/1770479552/3310/0x5000c500e9cf2ef2/fab5efb42c28462f883689a48ec4da56.mp4.m3u8?i=1920x1040_2234
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-11/3f/8b/3f8bcc41d05d8fc93a32eb969975f936.jpg", Одним дурацким летом (2025)
+https://river-1.rutube.ru/hls-vod/OAH0wGEfN75i8Fui4i4DzA/1770479555/3294/0x5000c500e873021d/0452d9472d734eb28fda7bf9456782d1.mp4.m3u8?i=1920x800_2503
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-13/77/bc/77bc4f3c119b0592b1c1acc6e042952e.jpg", Спаситель (2025)
+https://river-1.rutube.ru/hls-vod/mi8nQDL5XL3XlsXsfVy7KA/1770479557/3304/0x5000c500e9cfbe4b/4583d50b858641f58c0d58045e4067d4.mp4.m3u8?i=1920x1080_1144
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-13/03/8b/038beadbfecd799dbd4a36bb4fb8b2ac.jpg", Хорошие новости (2025)
+https://river-1.rutube.ru/hls-vod/Cfg4lQqCe9ajatDHcBLGYg/1770479561/3272/0x5000c500e9ebfce0/c17b69aa172b4f1d9b58926bfe71999e.mp4.m3u8?i=1920x1080_2612
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-13/eb/8c/eb8c4b52b2494d1e72c90a50a487444f.jpg", Спасти Санту 2 (2025)
+https://river-1.rutube.ru/hls-vod/urfuhqL3ZT-WjhlK4GvqJQ/1770479564/3274/0x5000c500e9cf2483/754b2ad6b8a34569a1b328c400c58cd6.mp4.m3u8?i=1920x1080_2723
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-13/fb/e2/fbe2961f504f53126e63c4c3e40673eb.jpg", Мой тайный Санта (2025)
+https://river-1.rutube.ru/hls-vod/0YwdymOyexUQs1svwfZqVQ/1770479567/3308/0x5000c500e9cf7e5a/6d143a344fd849e082d7d438f7abbb16.mp4.m3u8?i=1920x1080_3325
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-27/84/87/84876b21be41411f9164301ee2057d01.jpg", Откровения (2025)
+https://river-1.rutube.ru/hls-vod/g6sgYBEBRA-s74OqrO44bA/1770479571/3368/0x5000c500fa78a089/e7f4f1608cd9415a97789c0cb496f5c3.mp4.m3u8?i=1920x1080_1698
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-05/61/64/6164b8561219d1224e1589f28a972036.jpg", Чем больше тем веселее (2025)
+https://river-1.rutube.ru/hls-vod/6D121_IJo7GN6eWU1OM4Sg/1770479577/3316/0x5000c500e9cf573d/77466fdc420d494ab0aaa17442a304fb.mp4.m3u8?i=1920x1080_2294
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-06/4d/c2/4dc271ae05866f5df5e8cb834896b6c8.jpg", Спецподразделение – Первое убийство (2025)
+https://river-1.rutube.ru/hls-vod/FM2NUR2bQ7LFpIXyJJ4_zA/1770479584/3270/0x5000c500e9fdb5c4/cfe7cb6accb044ceaee86d2570cf213a.mp4.m3u8?i=1920x800_2278
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-08/2e/93/2e93e6fc6da63b0d10d8a1cffb061570.jpg", День Питера Худжара (2025)
+https://river-1.rutube.ru/hls-vod/fWjOSzfoGYxK6l-yYLQHdw/1770479592/3356/0x5000c500fa6e55ad/9de8b94ac6bf44a5b4ad6c8df7524f5f.mp4.m3u8?i=1920x1080_1394
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-08/ca/39/ca398910638f2cc3afe8219b3b9a532e.jpg", Испытание огнём (2025)
+https://river-1.rutube.ru/hls-vod/Xyl_G-GB8SIFHePMgkelLA/1770479608/3344/0x5000c500e9cf12d3/4a003d6e6c474e868fd9832db65abdd1.mp4.m3u8?i=1800x1080_3803
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-09/1e/25/1e25c8fe09e97f628bf3f6c895484883.jpg", Долина улыбок (2025)
+https://river-1.rutube.ru/hls-vod/98LMvIxAmlVs-_Qvhy__2g/1770479628/3260/0x5000c50074475cce/f0f7c11b749d416f9e428e0e36063902.mp4.m3u8?i=1920x1040_1970
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-01/7d/2f/7d2f5e5237a2b47652c1fc38044e5c44.jpg", Проблемы с шампанским (2025)
+https://river-1.rutube.ru/hls-vod/Vx9hVyrANxrOV1xuT2pFfQ/1770479643/3266/0x5000c500e9d37e6b/9a532c01a5df40c08561c631eb8a48d0.mp4.m3u8?i=1920x1080_2327
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-01/f0/cc/f0cc15ebd41f1aaf0b73d0c8645b70d1.jpg", Оскар Шоу (2025)
+https://river-1.rutube.ru/hls-vod/H8bRwM9u9N-Ho0QQpVqBLg/1770479646/3268/0x5000c500e4331005/11202ffd58e0479aa6d87f158a9e9ac4.mp4.m3u8?i=1920x800_1543
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-02/4e/a9/4ea98456f1261a1e727d25894846f097.jpg", Злобный кролик (2025)
+https://river-1.rutube.ru/hls-vod/ggNnv3UABeNbl92qq_dTkA/1770479727/3388/0x5000c500e87322b8/e5e71a3dfede49f7ad0efe1488ae5c3e.mp4.m3u8?i=1920x1080_3361
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-30/4a/34/4a34a998bb0fd8ba1edb52ec18cd1912.jpg", Лиа и кенгуру (2025)
+https://river-1.rutube.ru/hls-vod/KAEi9NL1ocE7Qtn0VAFOFw/1770479731/3384/0x5000c500fa774e48/bb0913bd108e4952ac13da60b6843915.mp4.m3u8?i=848x352_685
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-30/ea/cc/eacc279ce381e0106463fa6516281a57.jpg", 13 дней 13 ночей (2025)
+https://river-1.rutube.ru/hls-vod/S63nIG693lKLX23z2t9KuA/1770479736/2600/0x5000039ce86a09a5/a3cd7f15077b4fc19768ce8629f7f665.mp4.m3u8?i=848x352_650
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-30/91/8f/918fd3a2188db70f56898856239f248c.jpg", Время для храбрых (2025)
+https://river-1.rutube.ru/hls-vod/JPk3egBTp29rlBgUZgSRQg/1770479804/3344/0x5000c500e9cf3111/8840ba30a6574da7a510be663c53a36a.mp4.m3u8?i=848x424_571
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-31/6d/9e/6d9e63cc683e156abb850f148256292d.jpg", Призраки разума (2025)
+https://river-1.rutube.ru/hls-vod/JmDDsbsAF5UsIOciuB3IUQ/1770479807/3342/0x5000c500e9cf572d/4b1cc7fe8af34b45ba79a498f962011f.mp4.m3u8?i=848x352_401
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/a0/56/a056d6ea1365c60031634b13088560e3.jpg", Город зла (2025)
+https://river-1.rutube.ru/hls-vod/yFVY2o4KjgpQWIXc1bol9A/1770479810/3360/0x5000c500fa6e91f4/84dc0467aff24647abf1c46d743ce697.mp4.m3u8?i=1920x1080_1493
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/14/b1/14b1f8c78181a9cc69ee18542deb3012.jpg", Новая волна (2025)
+https://river-1.rutube.ru/hls-vod/VVqYbqS4w2NV2geojS_rUg/1770479813/3382/0x5000c500fa775d03/cc26b55451b3482fb3264238fe9e4f53.mp4.m3u8?i=656x480_696
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/9d/87/9d871a48879fc1bc484cad34f36bc112.jpg", Сироты (2025)
+https://river-1.rutube.ru/hls-vod/gTRN1UGBS7J4Vzd-dJdpdg/1770479816/3320/0x5000c500e9ebc72d/fa7e6dda830249aea98375cbf66203af.mp4.m3u8?i=1920x800_2900
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-25/47/35/4735fa0e7b691bca92edf05606512a43.jpg", Прощай Джун (2025)
+https://river-1.rutube.ru/hls-vod/HKPCgkQSvg9xsD_FiHo7Vg/1770479820/3260/0x5000c500e9ebfc75/74f84bc6770f4219957f512c7c16ba41.mp4.m3u8?i=1920x1080_2203
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-25/df/ba/dfbad4fed903856378c315beaa8e9ab0.jpg", Девочка из леса (2025)
+https://river-1.rutube.ru/hls-vod/RrQJObd-pnIYd6USFsGm7A/1770479823/3312/0x5000c500e9ebc8d4/61fb8578e10c4288bfb3f8bdd20f0185.mp4.m3u8?i=848x480_339
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-25/55/da/55da5fbd80987cfc05e9b7119087d5e6.jpg", Каноэ Маниту (2025)
+https://river-1.rutube.ru/hls-vod/wOMOIUPp4KpmNEF7b4NuYA/1770479825/3384/0x5000c500fa77cee2/7585ce29a4eb4e95b3a8f52f2d6b265f.mp4.m3u8?i=1920x800_2773
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-25/b4/57/b4577997b03d33d71af16064589a8b21.jpg", Последний викинг (2025)
+https://river-1.rutube.ru/hls-vod/8oIGgN6rL6zl8w2I1rMxHA/1770479829/3296/0x5000c500e9ebffeb/fea247d8ae894cffaea2fed22abbe76e.mp4.m3u8?i=1920x1080_2385
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/5d/34/5d34067b29f686cbe396b1ad498b8d0b.jpg", Большое смелое красивое путешествие (2025)
+https://river-1.rutube.ru/hls-vod/HgFhuz4E6A61eZXwmycnfw/1770479833/3372/0x5000c500fa77742a/da4ec850876f404d871efb15a1fd5e50.mp4.m3u8?i=1920x960_1982
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/b8/f0/b8f0527bc12d362ccdde024ec7be4fc3.jpg", Бессмертный: Кровавая дорога домой (2025)
+https://river-1.rutube.ru/hls-vod/uZOLooaBi3HyfMfT5qcCHw/1770479835/3384/0x5000c500fa777dd1/957ba59f665a4d1088fb07989a38cdf0.mp4.m3u8?i=1920x800_2869
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/5a/5a/5a5a2cdede47f100d57ca12247e8c7c5.jpg", Дети с чёрными глазами (2025)
+https://river-1.rutube.ru/hls-vod/8vaavlyleKbfKlxF9ocHhg/1770479838/3348/0x5000c500fa803aeb/92afac4f65034bbc9d1742570dff059a.mp4.m3u8?i=1920x1080_1800
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/3a/56/3a5660209c565e331517ba0fd9273c2f.jpg", Да здравствует любовь (2025)
+https://river-1.rutube.ru/hls-vod/xWZoISKmkdfhJPwk0s3uxA/1770479842/3372/0x5000c500fa6e367c/3f000a16e51c42c6ac6dd404870697a0.mp4.m3u8?i=1920x1080_4012
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/53/39/53396d58c2200b1a998573d77beaf12d.jpg", Останься (2025)
+https://river-1.rutube.ru/hls-vod/DXWK-Hv4OJq9GfW3IdOWmg/1770479844/3394/0x5000c500fa6f39b1/17529c9ff7b64adea5822621abe7cb6c.mp4.m3u8?i=1920x1080_2328
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/39/1b/391b2bc56286b3db2231f35785890f09.jpg", Мечты (2025)
+https://river-1.rutube.ru/hls-vod/IL1wC4ZodVKOhR7m743Wpg/1770479847/3346/0x5000c500e9ce2b67/6e0c721b45e14b1d9fdf0f5286a59312.mp4.m3u8?i=1280x520_819
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/4e/ac/4eac83a49f47219d5439a26ea4896e7d.jpg", Подготовка к следующей жизни (2025)
+https://river-1.rutube.ru/hls-vod/ullp2D8JshfxDC0-OKC6xA/1770479851/3352/0x5000c500e9cf7798/e025db6539b948749fac61f63d215d24.mp4.m3u8?i=1920x1080_2562
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/ce/3f/ce3f050b8b30764756155749c02d07d0.jpg", Любовь и вино (2025)
+https://river-1.rutube.ru/hls-vod/Nqp4lq8BjCni_kcqVWLP9Q/1770479854/2748/0x5000c500e93c2ea2/5385204715cd48bbb231ef464e078000.mp4.m3u8?i=1920x1080_2698
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-06/2b/9f/2b9fddd021aeee4e40a92fb054b9dedf.jpg", Пять ночей с Фредди 2 (2025)
+https://river-1.rutube.ru/hls-vod/5GBafj5-5PrPot1jG2aXEA/1770479857/3392/0x5000c500e87395ed/f93ec0e1783f4a6c97d713bf478d6633.mp4.m3u8?i=1920x1080_1521
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-17/94/21/942133762e1ea0fb2e3e5cd19e5e6b1d.jpg", Отец (2025)
+https://river-1.rutube.ru/hls-vod/5MzXO4oOrvEW51M10u8CEg/1770479861/3294/0x5000c500fa6e7ebc/65254c3da67b43ac9c1b6980ffe793e9.mp4.m3u8?i=1920x1080_2779
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-17/f9/8c/f98c19270ef6c9d48af50f7d7d2f29f5.jpg", Проект «Ведьма» (2025)
+https://river-1.rutube.ru/hls-vod/07QCB7MM8gF5d-wZD8RU_w/1770479863/2650/0x5000039ce818327d/a92a4f14dd99455b86f1bac65ac5f27f.mp4.m3u8?i=1920x1080_2685
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-17/ed/92/ed92cff88fa163e7814bd96c7fc03989.jpg", Сущность (2025)
+https://river-1.rutube.ru/hls-vod/-4X_g3hQ5QghYBnw46IxRA/1770479867/3256/0x5000c500e59e7a2f/052142c3442b4f90a18e22b1931f2d53.mp4.m3u8?i=1920x1080_2350
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-11-27/13/4c/134c5f583201f7c8e9e8ee6799565c34.jpg", Одна на фронте (2025)
+https://river-1.rutube.ru/hls-vod/7msiUHmIv6DdZiWsJu-J2w/1770479870/3352/0x5000c500e9ed7fa1/dc83fdb5411e4c8b9e63f1d0c11d652c.mp4.m3u8?i=1920x1080_1160
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-01/5a/8b/5a8bbaa66d7447d6089b6506ad76a2cc.jpg", Бензопилы пели (2025)
+https://river-1.rutube.ru/hls-vod/CIMS2cehYmcwjb-C_EK_WQ/1770479883/2644/0x5000039ce83a138d/94717f8cad7a4d02b7755517eae0cc33.mp4.m3u8?i=1920x1080_3578
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-15/e7/84/e78461fdaa388d1dd778482b238a619e.jpg", Вдохновитель (2025)
+https://river-1.rutube.ru/hls-vod/3Vk8FSrvjlFQhKLp9Q5xQA/1770479887/3404/0x5000c500e882c1bc/dbc745101472498a8add76b27b9b0feb.mp4.m3u8?i=1280x720_740
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-15/5f/f6/5ff6879cf777a4745e266325de1b1502.jpg", Инфлюэнсеры (2025)
+https://river-1.rutube.ru/hls-vod/PITqZy4si1HHI7m2Uh1IPA/1770479892/3350/0x5000c500e9ebdf07/cb13bc36ff50473e93127f6b0b321511.mp4.m3u8?i=1920x1080_2005
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-12/93/6c/936c98205a459b5c9b9bbe8e9ae3354d.jpg", Бегущий человек (2025)
+https://river-1.rutube.ru/hls-vod/2M3op_8kP9O8r_ZNd6bHhg/1770479908/3346/0x5000c500e9cf2ddb/7a138faee76f4175ad93128e1c00258e.mp4.m3u8?i=1920x800_3197
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-12/b0/a0/b0a0d4a1d5699df8e808f858633361a1.jpg", Мир Глава 1: Чандра (2025)
+https://river-1.rutube.ru/hls-vod/cgtVchP9KYeWZMYqaDvRJQ/1770479947/3382/0x5000c500fa78df6f/c5181f9ef8894070b2f50ce445d117e2.mp4.m3u8?i=1920x1008_1942
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-15/4e/b4/4eb4df79cb264317dc375cbeb56cc8e9.jpg", Идеальная обстановка (2025)
+https://river-1.rutube.ru/hls-vod/Yc-xvGQcBJer_oI8He9jQA/1770479951/3336/0x5000c500e9ebf14d/080291aae65b46cfbad51b35a5303fff.mp4.m3u8?i=1920x1080_2652
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-17/59/f6/59f64784a14be91dafd581a14ff3f82d.jpg", В ловушке (2025)
+https://river-1.rutube.ru/hls-vod/HAXPJq8wgMW2P9AH5iBsqA/1770479954/3304/0x5000c500e9cf83f5/304865483dfc4036b8f91a84254ca007.mp4.m3u8?i=1920x960_1245
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-17/04/3d/043d8689c82b4375d67c37b010d00c8e.jpg", Валансоль 1965 (2025)
+https://river-1.rutube.ru/hls-vod/6QaESjZ56l-2-PF3ULptfg/1770479957/3330/0x5000c500e9d37957/fa56a9ffbe9140e3ba6d3ab28beb36f6.mp4.m3u8?i=1920x800_1969
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-17/79/47/79474c953e4a6980cacc4cd55d2cb17e.jpg", Мама Устрашитель и я (2025)
+https://river-1.rutube.ru/hls-vod/4uo93NWtEPSHJxHlefDuDw/1770479960/3272/0x5000c500e9ea3caf/6805d80d9dd24cee8289cf620a66f4ed.mp4.m3u8?i=848x448_538
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-11/2a/61/2a617dca6fb8efbc100899250a042653.jpg", Спасти Санту-2 (2025)
+https://river-1.rutube.ru/hls-vod/sdQQEQYAmcjE0fuQi282AQ/1770479962/3352/0x5000c500e9ebb653/44508acf14d94c48862f6fc0dc61f0c3.mp4.m3u8?i=1920x1080_2723
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-12/c6/01/c601cc5fd7ea4423829a0dba23f14978.jpg", Мерв (2025)
+https://river-1.rutube.ru/hls-vod/RAhqLbrpjtoWTxAuBwcErA/1770479965/2644/0x5000039ce86a074d/9c5cce0b9d3b40d4a1bc997fb1df9ad5.mp4.m3u8?i=1920x872_1714
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-15/a3/79/a37991029e4d9fd5e345e022d0ea1a60.jpg", Турбулентность (2025)
+https://river-1.rutube.ru/hls-vod/kqRaGJBtM4tkB4BJOGifRA/1770479969/3346/0x5000c500e9cf5115/4268c15f6ea84d10bc82b3017d8f0a4a.mp4.m3u8?i=1920x800_3145
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-08/00/69/006957cf7922c7568e4efd5057f8b166.jpg", Плохие парни: Маленькая ложь и алиби (2025)
+https://river-1.rutube.ru/hls-vod/lV0jspBkc08kBBec1i7Dmw/1770479973/3306/0x5000c500e82f2213/336e1bf820dc4c50b0e7de2b1f09aeaf.mp4.m3u8?i=1920x800_4046
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-10/ca/c9/cac916ae1d2975259a99ba4845c7c766.jpg", Сын плотника (2025)
+https://river-1.rutube.ru/hls-vod/ZHshX7EtGrFQsBGBCMKCbg/1770479975/3338/0x5000c500e9ebb7a0/d32a655d0177432f9a59b532e4e21ed9.mp4.m3u8?i=1920x816_2182
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-08/22/e3/22e39b5b6f46880cac0c89e73e59df13.jpg", Лицо (2025)
+https://river-1.rutube.ru/hls-vod/Mw_GJ_BJALunPvBlHa7WKQ/1770479978/3300/0x5000c500e68dab96/b28334e113004d9b8e29206102ea8d57.mp4.m3u8?i=1920x1080_1227
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-08/11/b1/11b1ce875d6f597fdc4dfe32550f819e.jpg", Баллистика (2025)
+https://river-1.rutube.ru/hls-vod/ZUsetPF5Y-N-DsnZrZC3CQ/1770479980/3286/0x5000c500fa7775b0/c4a9e9a8e8644fbda5aeb0f9b4473e71.mp4.m3u8?i=1920x1080_1201
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-10/d3/48/d3487554d567b2d3cd45bd71cee476c4.jpg", Мой тайный Cанта (2025)
+https://river-1.rutube.ru/hls-vod/gjWuxvw1Coe8ucjrtRzjYA/1770479983/3326/0x5000c500dc37bfcf/0ef7f968e6b64f06a8c7973365609255.mp4.m3u8?i=1920x1080_3329
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-10/80/61/8061471841e1f476fad25e0223ca9cf5.jpg", Джей Келли (2025)
+https://river-1.rutube.ru/hls-vod/H-WcubEpwlY8MJ79UTzL-w/1770479987/3366/0x5000c500fa78bb1c/5a776f64ad2c41949c1c04633b077ba7.mp4.m3u8?i=1920x1080_3426
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-10/35/1b/351b3c528ae3dd3c43e0973598d0fe13.jpg", Нефть Сары (2025)
+https://river-1.rutube.ru/hls-vod/tfA0FQ-kKp7in4T1rFXaxA/1770479989/1859/0x5000c500e535592a/81238ce234674f9a9985db26287b4690.mp4.m3u8?i=1920x800_6457
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-12/6e/83/6e834ecd36ea363adfb1edbc165436c3.jpg", Боже Как Смешно (2025)
+https://river-1.rutube.ru/hls-vod/I8A3KfoAwpRBaythonWGoQ/1770479992/3272/0x5000c500e9ebc87c/370077b4c4ba4a47973c11931dae4b20.mp4.m3u8?i=1920x1080_6523
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-04/3c/ca/3cca925d3527757311d5129bd41cdad3.jpg", Французский любовник (2025)
+https://river-1.rutube.ru/hls-vod/twvXl3kkYpP13tluvQVXSg/1770479995/3286/0x5000c500fa78a90e/f314c36cde044315b7c9bdf3e6cc1931.mp4.m3u8?i=1920x1080_2846
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-09/c6/7c/c67c83665a6dd5838b373947d232ee0f.jpg", Семья Макмаллен (2025)
+https://river-1.rutube.ru/hls-vod/8MPLGXsAKJAVd65ymIg-Lw/1770479997/3378/0x5000c500fa6e8e1e/e33b5378cd4047be8370b8e49a0bff22.mp4.m3u8?i=1920x800_1381
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-28/6d/9e/6d9ee0cff79f412a602017fe9d15c205.jpg",Безымянная романтическая история о вторжении в дом (2025) [1600p]
+https://river-4-419.rtbcdn.ru/hls-vod/F11Uht-r47i28Z4v-_sp8Q/1770480550/2508/0x5000039ce8636b61/43cd6f7f9c8f40779e327fdddae13ba3.mp4.m3u8?i=3840x1600_8082
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-30/54/61/546143a5abfae8565a3d63dce62d85ee.jpg",Бастион 36 (2025) [4K 3840x2160]
+https://river-3-362.rtbcdn.ru/hls-vod/lPt2mA4hjtZXdDB6388Q5w/1770480552/2572/0x5000039ce8383949/69536eeb0d1e425689d57c6d2e864f50.mp4.m3u8?i=3840x2160_4046
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-18/78/ea/78eab9ff9189e9fd5b7aa1abdff02685.jpg",Из пепла (2025) [2072p]
+https://river-3-367.rtbcdn.ru/hls-vod/LPq5PtHtZtWoz-BggUMP6Q/1770480555/3316/0x5000c500e9cf3dae/973afd424d3b411cb58322c8f3a71360.mp4.m3u8?i=3840x2072_9899
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-22/12/28/122838e815feb500c9a2c13df11a0ceb.jpg",Мы едем едем едем (2025) [4K 3840x2160]
+https://river-3-371.rtbcdn.ru/hls-vod/UMP-_RuCtcXsfhw5Wh7YBw/1770480558/2548/0x5000039ce84017cd/e7c3de731d434b79ba7444a0948abccd.mp4.m3u8?i=3840x2160_20744
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-13/6f/01/6f01a935cd285ee2489bf4bea488914d.jpg",Следуй за моим голосом (2025) [2080p]
+https://river-3-374.rtbcdn.ru/hls-vod/a_C-hLeIYbhHoDAyd1MJXw/1770480560/2165/0x5000c500f7c32a3e/0209181cadd64798adf862d97f4dbbee.mp4.m3u8?i=3840x2080_9778
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-14/1b/fc/1bfc36fe3ef096446945187445bcdae0.jpg",Микки 17 (2025) [2072p]
+https://river-5-522.rtbcdn.ru/hls-vod/oRzVkRBXlH9KK1TMu4PtcQ/1770480570/2666/0x5000039ce868ff45/634e78c91a5646a8a6fcd9d48984a1ec.mp4.m3u8?i=3840x2072_6831
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-04-28/3c/b6/3cb6b60bd48c992bd5d19d947e84c137.jpg",Особо опасный пассажир (2025) [1600p]
+https://river-5-544.rtbcdn.ru/hls-vod/zfJJ9g2EXwDIojyb5BaHWg/1770480573/2738/0x5000039ce839a759/2ffe10cea0f34bfbb562329385424d3c.mp4.m3u8?i=3840x1600_13772
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-04-29/93/68/93682d7ad4ec2b1e10b31d7de3a6dd69.jpg",Пепел (2025) [1600p]
+https://river-5-544.rtbcdn.ru/hls-vod/OfP4W9HPt-PhTnw8VYZPuQ/1770480576/2678/0x5000039ce868edf5/a4a038bac1054671bb5f00f4c6fe889c.mp4.m3u8?i=3840x1600_7507
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-05/0f/ba/0fba038c19a3be9908b38aaab09f0f06.jpg",Ещё одна простая просьба (2025) [1920p]
+https://river-3-330.rtbcdn.ru/hls-vod/_-f8np_awc5JnCN3RqEgEA/1770480577/2702/0x5000039ce86942d1/cf58f904a8b14ff49a7a46cd0458dd7b.mp4.m3u8?i=3840x1920_9915
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-13/06/2b/062bc57610cf8e44813e44867c6be7f2.jpg",Minecraft в кино (2025) [2072p]
+https://river-5-544.rtbcdn.ru/hls-vod/MHuPWpTiPBAgqy6Hp_d1Bg/1770480579/2704/0x5000039ce8635c3d/505cc6825b274c5caffbff15d7609c04.mp4.m3u8?i=3840x2072_11779
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-15/d9/2d/d92d71e09e5fa0a7fc3d758349b9f025.jpg",Дыхание шторма (2025) [1600p]
+https://river-5-544.rtbcdn.ru/hls-vod/llJbwjB-BtR3VlwjuxCWMg/1770480582/2704/0x5000039ce863f7d9/700dbdbfd17a4a3d964dc3feebe1b36a.mp4.m3u8?i=3840x1600_7570
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-16/98/8d/988dc59ab70dbbe6d65580d64ceb122a.jpg",Бабули (2025) [4K 3840x2160]
+https://river-5-557.rtbcdn.ru/hls-vod/Pu7obSItwWoJB_RLEWzmuQ/1770480584/2692/0x5000039ce83be8e9/a326c60568f849f8b2b5068a4e779e48.mp4.m3u8?i=3840x2160_4844
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-29/d4/32/d432b28edb77e097e76df72129128078.jpg",Грешники (2025) [4K 3840x2160]
+https://river-5-517.rtbcdn.ru/hls-vod/W3Fgq3TJO5FDSCpXt0oHCg/1770480589/2560/0x5000039ce8401ac9/dfe0453219734b518944a7b223ef3c35.mp4.m3u8?i=3840x2160_5600
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-17/19/9e/199ea11e5f1962d1c26caddb025a305d.jpg",Под прикрытием (2025) [4K 3840x2160]
+https://river-3-347.rtbcdn.ru/hls-vod/cjyjiPtW9OIzYcww70Cn6g/1770480592/2652/0x5000039ce840d9e1/e0728b94859641cca1f21f1a71c71153.mp4.m3u8?i=3840x2160_9449
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-17/9f/d0/9fd014c3b4c13c98e926190144a6694d.jpg",Долина эха (2025) [1608p]
+https://river-3-312.rtbcdn.ru/hls-vod/_cXG_KPdbNyBcwAXJR36bA/1770480596/2730/0x5000039ce83a1469/bc3b083a878442e8b2b814386adac353.mp4.m3u8?i=3840x1608_4521
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-18/36/62/36621414dd914335d816659f8feec67a.jpg",Расплата 2 (2025) [1600p]
+https://river-4-440.rtbcdn.ru/hls-vod/hSRk1BTYjFf5LzZ7Y7-aVw/1770480598/2217/0x5000c500e7519825/e43e99ed1a8341d9a632e9e74a520122.mp4.m3u8?i=3840x1600_9219
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-25/ee/da/eeda046926fd723ff0474f26b9ac6924.jpg",Финикийская схема (2025) [4K 3840x2160]
+https://river-3-314.rtbcdn.ru/hls-vod/6osjNR6foHbWVqViyX2vhQ/1770480600/2600/0x5000039ce869f7c1/d480df982da34599b75b382b8ca13f1c.mp4.m3u8?i=3840x2160_13705
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-07-10/bd/44/bd443c46e1941daadd59a8880f7b60f5.jpg",Каратэ-пацан - Легенды (2025) [2072p]
+https://river-3-347.rtbcdn.ru/hls-vod/6JdKR2065F8nXk-mdje3mg/1770480605/2694/0x5000039ce8703779/c657b5e7ebf24269b843264f60afbf66.mp4.m3u8?i=3840x2072_11620
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-07-29/dd/66/dd6650e04217d1cc963b04fca90d43ed.jpg",Счастливчик Гилмор 2 (2025) [4K 3840x2160]
+https://river-3-348.rtbcdn.ru/hls-vod/CEWiAKVf0utgqcAPI5rv1g/1770480606/3286/0x5000c500fa78394c/5272e0649f734bd48563906871e6bced.mp4.m3u8?i=3840x2160_15291
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-13/00/09/00099d5a5577cf6f9b67ed6ed3482a8e.jpg",Белоснежка (2025) [1608p]
+https://river-3-348.rtbcdn.ru/hls-vod/E7gKdlEZLkcXWYarjex92A/1770480609/2223/0x5000c500e74e84a7/8aed0a26d5804f9ab69027e89278e209.mp4.m3u8?i=3840x1608_6134
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-06/ed/54/ed542aab0eb2246cacf28feb8c213718.jpg",Злая Часть 2 (2025) [1608p]
+https://river-3-363.rtbcdn.ru/hls-vod/vkX6DUnDMRtsD5YOcJ6fLA/1770480611/3382/0x5000c500fa7878a2/ae9b21953427405394fe2d34c8f6e274.mp4.m3u8?i=3840x1608_6194
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2026-01-07/53/fa/53fa2f2f9b8f1e3eacc588ee087a1a4b.jpg",Блюхер (2025) [1608p]
+https://river-3-363.rtbcdn.ru/hls-vod/5ICMjJsfhsoxg2anj7laWA/1770480614/3306/0x5000c50074475c7f/c11b83e98248401b8edfedd736b87a26.mp4.m3u8?i=3840x1608_5806
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/b8/f0/b8f0527bc12d362ccdde024ec7be4fc3.jpg",Бессмертный: Кровавая дорога домой (2025) [1608p]
+https://river-3-363.rtbcdn.ru/hls-vod/TN9SQAiagGbgvSfk4fWahg/1770480616/3334/0x5000c500fa8032ab/d31d657b928c45ac83c4ce53d932d4d9.mp4.m3u8?i=3840x1608_9973
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-23/4e/ac/4eac83a49f47219d5439a26ea4896e7d.jpg",Подготовка к следующей жизни (2025) [4K 3840x2160]
+https://river-5-543.rtbcdn.ru/hls-vod/gMHH0Q-N9NMXpfu3dVbR2A/1770480619/3306/0x5000c500e9be7a48/7adfc4ecb5dc4dfcb7f4cc92ffce2fb0.mp4.m3u8?i=3840x2160_10383
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-06/2b/9f/2b9fddd021aeee4e40a92fb054b9dedf.jpg",Пять ночей с Фредди 2 (2025) [4K 3840x2160]
+https://river-3-363.rtbcdn.ru/hls-vod/8NUr5Six0NqI6nBUvbVfMQ/1770480621/3326/0x5000c500dc6e78e9/567d61a412fc44d7827fe3c5f48df184.mp4.m3u8?i=3840x2160_4685
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-12/c6/01/c601cc5fd7ea4423829a0dba23f14978.jpg",Мерв (2025) [1744p]
+https://river-4-430.rtbcdn.ru/hls-vod/HCuC_dunLRQTwk3zu-8uYQ/1770480624/3330/0x5000c500e970f1dd/93d680c40363437b85b920c147c45e7c.mp4.m3u8?i=3840x1744_4307
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-20/98/0a/980a97c3547354addcba3866d477834b.jpg",Дерзкий (2025) [4K 3840x2160]
+https://river-3-378.rtbcdn.ru/hls-vod/6IP952NPuUWLEMbZKWJJ8A/1770480626/3308/0x5000c500e9cf52b3/66266a9b6dfe4dbb847fb9df0b3818d2.mp4.m3u8?i=3840x2160_9870
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-10/80/61/8061471841e1f476fad25e0223ca9cf5.jpg",Джей Келли (2025) [4K 3840x2160]
+https://river-3-314.rtbcdn.ru/hls-vod/wzAF8RkK0mKLVy8T2tKKCA/1770480629/3352/0x5000c500e9cf599a/5c62375e9c5b479c9c9a141cdf80e055.mp4.m3u8?i=3840x2160_13779
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-12/6e/83/6e834ecd36ea363adfb1edbc165436c3.jpg",Боже Как Смешно (2025) [4K 3840x2160]
+https://river-3-3106.rtbcdn.ru/hls-vod/XggcC7x3mL4dN92VC4JU4w/1770480631/3260/0x5000c500e9ea6892/15d935f4c4c5485590a9b6bec7c6a5f9.mp4.m3u8?i=3840x2160_31692
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-02/8f/9d/8f9d12dbbc1c0f0ff5d73e69c472d01c.jpg",Рождество с бывшим (2025) [4K 3840x2160]
+https://river-3-367.rtbcdn.ru/hls-vod/c9kgZlgetCK6BoLWPSZwlg/1770480633/3262/0x5000c500e9ea68f8/655f8d3de9b240eab67ad749d25ee49f.mp4.m3u8?i=3840x2160_9116
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-04/9c/b2/9cb2766452b19f94b68fc92223493c14.jpg",Как можно лучше (2025) [4K 3840x2160]
+https://river-4-431.rtbcdn.ru/hls-vod/Lx_ixFOKjUEGXz9drGb4UQ/1770480636/3328/0x5000c500e9cc1eae/0ab36ecb882a4784a57f6b58cd2cd4b7.mp4.m3u8?i=3840x2160_22526
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-02/f9/24/f924cf4ca1cc3af15a2852146a2bb6dc.jpg",Рождественское ограбление (2025) [4K 3840x2160]
+https://river-ntv-ttk-d418.rtbcdn.ru/hls-vod/2wedu0eBQPoJPFsaYzwi4Q/1770480638/3300/0x5000c50074475bff/7e2f37c8935547ff8a3bd55278f0fd80.mp4.m3u8?i=3840x2160_4726
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-11/8a/0f/8a0f33fed31ede17acbee356b66d938e.jpg",Трон: Арес (2025) [1608p]
+https://river-3-346.rtbcdn.ru/hls-vod/90DgC-jjdXmdQsbAWfwk0w/1770480644/2724/0x5000039ce839826d/a1a4000dee7c48d9aa12ca532872bed2.mp4.m3u8?i=3840x1608_8471
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-11-11/4d/69/4d698ebd070e49cce378dc9c255c5d47.jpg",Баллада о маленьком игроке (2025) [4K 3840x2160]
+https://river-4-424.rtbcdn.ru/hls-vod/CG-qEiLIG6CLxzOJuzWXbA/1770480648/3354/0x5000c500e9cf23d8/8b92bd2a77ef4a7e8399ba4ee54b9f48.mp4.m3u8?i=3840x2160_13188
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-28/1a/44/1a44f1d8e2ce264f141426acae8e5746.jpg",Битва за битвой (2025) [4K 3840x2160]
+https://river-3-346.rtbcdn.ru/hls-vod/032Ycw3BNwwL44on038-Cw/1770480649/3378/0x5000c500fa777f60/28254b2c5b584c42b6b752da2a528dfc.mp4.m3u8?i=3840x2160_10070
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-10-27/0f/a0/0fa050716822d4177ea38aefed2f424d.jpg",Точка замерзания (2025) [1600p]
+https://river-3-344.rtbcdn.ru/hls-vod/Xa1I0Fy-fmNnu9xgD5gUFA/1770480652/3264/0x5000c500e9ebfbe5/ff48e2ce9d844c8892a8efc8db7dae94.mp4.m3u8?i=3840x1600_5696
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-20/71/ea/71eac18bfa2442989b711b883c83f55f.jpg",Миссия невыполнима: Финальная расплата (2025) [2072p]
+https://river-3-344.rtbcdn.ru/hls-vod/PckPAqoCBvsGK1jp3lX7Qw/1770480655/2656/0x5000039ce833b3b9/1e347766d0874d20954643ce2ae6572b.mp4.m3u8?i=3840x2072_16241
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-09-10/26/49/264965ddbc958091070c64671644b6a8.jpg",Орудия (2025) [1600p]
+https://river-3-344.rtbcdn.ru/hls-vod/ls96vNjU0Oi0RKgEg2RLow/1770480658/3284/0x5000c500fa6e7da5/37c60d8c70c04165b8b4893afd26ff1f.mp4.m3u8?i=3840x1600_6574
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-06/96/ba/96ba0a5122081aae3d2c9487d0a018c4.jpg",Сахара (2005) [1600p]
+https://river-5-534.rtbcdn.ru/hls-vod/IphODAhwzS3yrLREDFywGA/1770480661/2684/0x5000039ce8694e49/849cddccec8845a48d4949222dcdd249.mp4.m3u8?i=3840x1600_7480
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-15/cb/cd/cbcde15d8a115fb2217febbc2e397780.jpg",Вдохновитель (2025) [1440p]
+https://river-4-406.rtbcdn.ru/hls-vod/z6QfeE9ucCKJW6AToFh57g/1770480663/3308/0x5000c500e9edffe0/cf28717f9d5842559af489627eeaaea1.mp4.m3u8?i=2560x1440_3566
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-15/a3/79/a37991029e4d9fd5e345e022d0ea1a60.jpg",Турбулентность (2025) [1600p]
+https://river-3-311.rtbcdn.ru/hls-vod/lDE1m_U_RLK71j1K_VnkjA/1770480665/3378/0x5000c500fa6e7c60/5234b02502094d049b6bc05f689c8c2b.mp4.m3u8?i=3840x1600_13478
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-03/d9/94/d99487e69fd463609f6c73d5ac5e8ed7.jpg",Тролль 2 (2025) [4K 3840x2160]
+https://river-3-311.rtbcdn.ru/hls-vod/fkLML8ZCSz4GN1OreH-wyQ/1770480667/3276/0x5000c500fa77ac00/0f8f20716c0d40a59e9a1b2eb71b4b36.mp4.m3u8?i=3840x2160_6808
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-11-26/13/08/1308317ce2e8bdb73d82c36dac867a9e.jpg",Женщина во дворе (2025) [1600p]
+https://river-5-517.rtbcdn.ru/hls-vod/lYiQ7IvI9_OeDd8vrAmfqQ/1770480671/3386/0x5000c500e875152e/6fa67cc3ec464de2a43ac630b5e35d53.mp4.m3u8?i=3840x1600_2269
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-02/e8/36/e8365711bdc9c3ecf9da1d0e59f3226c.jpg",Голубая луна (2025) [1600p]
+https://river-3-349.rtbcdn.ru/hls-vod/jEE80NRaX87USKQI_5iHrg/1770480674/3294/0x5000c500fa6e8d5d/bb1e3d1374e0477586851753f351886e.mp4.m3u8?i=3840x1600_4928
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-02/00/de/00de38dd3fcf32defa8d732da27ae9d0.jpg",Вкуснятина (2025) [4K 3840x2160]
+https://river-4-425.rtbcdn.ru/hls-vod/FAabM2aqf_qlUufCZUXfew/1770480676/3262/0x5000c500e9ebea30/b311e4c97ac740419f7cf770d4a428f0.mp4.m3u8?i=3840x2160_4856
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-03/2a/7f/2a7f59770bc6a3e98840674d5035d51e.jpg",Манго (2025) [4K 3840x2160]
+https://river-4-416.rtbcdn.ru/hls-vod/0Of0-n_0NX8QcTP_1YilWQ/1770480679/3270/0x5000c500e9cc3272/8bdb67ab2fec4c578e7daa605e26650b.mp4.m3u8?i=3840x2160_5982
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-03/aa/25/aa25e838605d4635670520ead1e1d85b.jpg",Хэллоуин: Последствия (2025) [1600p]
+https://river-4-421.rtbcdn.ru/hls-vod/xw6EfKF09X5LtoetqN8fUA/1770480682/2656/0x5000039ce83bb97d/72ea8690abc34895a042336f31230447.mp4.m3u8?i=3840x1600_2623
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/7a/64/7a642e613abcd382eb5ca1e5e534a084.jpg",Пес-призрак: Путь самурая (2005) [1440p]
+https://river-4-437.rtbcdn.ru/hls-vod/R12mzFF29QIxm1dVZ6NNfQ/1770480685/2187/0x5000c500e7526694/0867e5cb17bc4fdebeac237f25046526.mp4.m3u8?i=2560x1440_4563
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/02/bb/02bbb57c604ba3d1aac4840ca9d90330.jpg",Гладиатор (2000) [4K 1752x2160]
+https://river-4-421.rtbcdn.ru/hls-vod/ucNyd01LjhoDkNFlIIRPjQ/1770480686/3314/0x5000c500e9bfa3b7/94e65dc9e80548d798e190883ba4bd9c.mp4.m3u8?i=1752x2160_14760
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-25/f7/7d/f77db83accceb5d8cc95c71daa3a81df.jpg",Максимальный риск (1996) [4K 3840x2160]
+https://river-4-421.rtbcdn.ru/hls-vod/M387qr8eg7BsSBNGALd5Hg/1770480689/2698/0x5000039ce832c945/6aaff2e6e1434b6dab2a220f20c40ef8.mp4.m3u8?i=3840x2160_7246
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-23/8b/19/8b194d90e3e9658578c335f18968b98f.jpg",Обратная тяга (1991) [4K 3840x2160]
+https://river-3-340.rtbcdn.ru/hls-vod/lvWR_QIgUQ8pwyeL4vG1bQ/1770480691/2648/0x5000039ce83ba471/ec106b03586a48a3a0bf166be1284daf.mp4.m3u8?i=3840x2160_5427
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-07-09/ba/c6/bac672e3b270858d4b2ad28c59def41e.jpg",Старикам тут не место (2007) [4K 3840x2160]
+https://river-4-421.rtbcdn.ru/hls-vod/lDf_hQaWr1I-vn3PFcrAUg/1770480693/2708/0x5000039ce868e771/71d288f9b71a405383c59187bca01a30.mp4.m3u8?i=3840x2160_7032
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-05-22/ef/81/ef8158414b9f696eda63f2741fe1ed4d.jpg",Мышиная охота (1997) [2080p]
+https://river-4-421.rtbcdn.ru/hls-vod/yW94-BLWuc0oovck8BSE_A/1770480695/2648/0x5000039ce861e005/72103dc6044f4ac8b1a2719d5f960e24.mp4.m3u8?i=3840x2080_12410
+#EXTINF:-1 group-title="4K KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-06-12/92/3d/923d02ec744710d2fdbd5683f8d7a3c3.jpg",Трудная мишень (1993) [4K 3840x2160]
+https://river-4-437.rtbcdn.ru/hls-vod/txJYw6KP_2X-v6UIlT9I4w/1770480698/2686/0x5000039ce83bf4b1/b40ac16b786a4eb48f20513577281a1e.mp4.m3u8?i=3840x2160_15400
