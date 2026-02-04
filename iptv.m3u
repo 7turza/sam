@@ -10,12 +10,6 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Общие", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-name="Окко Спорт HD" catchup="shift" timeshift="5" catchup-days="5",Окко Спорт HD
-http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name="Окко Футбол HD" catchup="shift" timeshift="5" catchup-days="5",Окко Футбол HD
-http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name=" Окко.Прайм Спорт" catchup="shift" timeshift="5" catchup-days="5", Окко.Прайм Спорт
-http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,Россия 1 (+1)
@@ -60,6 +54,12 @@ http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3 HD.png" group-title="Спортивные",Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-name="Окко Спорт HD" catchup="shift" timeshift="5" catchup-days="5",Окко Спорт HD
+http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Окко Футбол HD" catchup="shift" timeshift="5" catchup-days="5",Окко Футбол HD
+http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name=" Окко.Прайм Спорт" catchup="shift" timeshift="5" catchup-days="5", Окко.Прайм Спорт
+http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1,ТВЦ
 http://hls.peers.tv/streaming/tvc_hd/126/tvrecw/playlist.m3u8
 #EXTINF:-1,Беларусь 1 HD
