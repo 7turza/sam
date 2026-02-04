@@ -1380,3 +1380,5 @@ http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Clarity4K Единоборства",Clarity4K Единоборства
 http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1,00000000000000
+http://gr.seetv.cc/play/4611/D70CC021CA87DF2/000000000video.m3u8
