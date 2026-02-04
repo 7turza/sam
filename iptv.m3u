@@ -1014,3 +1014,387 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1, N1 Bosna i Hercegovina
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1,Divi Sport
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1,X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1,ViP Sport 1 HD
+http://de.seetv.cc/play/5009/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 2 HD
+http://de.seetv.cc/play/5010/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 3 HD
+http://de.seetv.cc/play/5011/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 4 HD
+http://pl.seetv.cc/play/5012/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 5 HD
+http://de.seetv.cc/play/5013/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 6 HD
+http://de.seetv.cc/play/5014/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 7 HD
+http://de.seetv.cc/play/5015/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 8 HD
+http://de.seetv.cc/play/5016/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 10 HD
+http://de.seetv.cc/play/5018/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 11 HD
+http://de.seetv.cc/play/5019/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 12 HD
+http://de.seetv.cc/play/5020/F153046F2E99D25/video.m3u8
+#EXTINF:-1,ViP Sport 13 HD
+http://de.seetv.cc/play/5021/F153046F2E99D25/video.m3u8
+#EXTINF:-1,UPL.TV
+http://pl.online24.pm/play/523/F153046F2E99D25/video.m3u8
+#EXTINF:-1,Матч ТВ HD
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1,Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1,Матч ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1,Матч ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1,NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Setanta Sports 2 GE
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1,Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1,Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1,Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1,Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1,AYM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
+#EXTINF:-1,CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1,SPORT 1 HD
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1,SPORT 2 HD
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1,Sport 1 Israel
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1,Sport 2 Israel
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1,Sport 3 Israel
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1,Sport 4 Israel
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1,Sport 5 Israel
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1,Sport 6 Israel
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1,Super Sport 1 Albanian
+http://79.127.207.193/Supersport1/playlist.m3u8
+#EXTINF:-1,Super Sport 2 Albanian
+http://79.127.207.193/Supersport2/playlist.m3u8
+#EXTINF:-1,Super Sport 3 Albanian
+http://79.127.207.193/Supersport3/playlist.m3u8
+#EXTINF:-1,Super Sport 4 Albanian
+http://79.127.207.193/Supersport4/playlist.m3u8
+#EXTINF:-1,Super Sport 5 Albanian
+http://79.127.207.193/Supersport5/playlist.m3u8
+#EXTINF:-1,Super Sport 6 Albanian
+http://79.127.207.193/Supersport6/playlist.m3u8
+#EXTINF:-1,CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,DAZN Combat German
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1,UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1,Motor sport revue HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1,Bein Sports XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1,TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1,TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1,TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1,TNT Sport 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+#EXTINF:-1, Eurosport 1
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1,PREMIER SPORT 1
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+#EXTINF:-1,PREMIER SPORT 2
+http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+#EXTINF:-1,Sporty TV
+http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
+#EXTINF:-1,Arena Sport 1 HD
+http://169.150.223.25/ArenaSport1HD/index.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://169.150.223.25/ArenaSport2HD/index.m3u8
+#EXTINF:-1,Arena Sport 3 HD
+http://169.150.223.25/ArenaSport3HD/index.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://169.150.223.25/ArenaSport4HD/index.m3u8
+#EXTINF:-1,Arena Sport 5 HD
+http://169.150.223.25/ArenaSport5HD/index.m3u8
+#EXTINF:-1,Arena Sport 6 HD
+http://169.150.223.25/ArenaSport6HD/index.m3u8
+#EXTINF:-1,Arena Sport 7 HD
+http://169.150.223.25/ArenaSport7HD/index.m3u8
+#EXTINF:-1,Arena Sport 9 HD
+http://169.150.223.25/ArenaSport9HD/index.m3u8
+#EXTINF:-1,Arena Sport 10 HD
+http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:-1,Arena Premium 1 HD
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+#EXTINF:-1,Arena Premium 2 HD
+http://169.150.223.25/ArenaPremium2HD/index.m3u8
+#EXTINF:-1,Arena Premium 3 HD
+http://169.150.223.25/ArenaPremium3HD/index.m3u8
+#EXTINF:-1,Super Sport 1
+http://169.150.223.25/Supersport1/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://169.150.223.25/Supersport2/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://169.150.223.25/Supersport3/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://169.150.223.25/Supersport4/index.m3u8
+#EXTINF:-1,Super Sport 5
+http://169.150.223.25/Supersport5/index.m3u8
+#EXTINF:-1,Super Sport 6
+http://169.150.223.25/Supersport6/index.m3u8
+#EXTINF:-1,Super Sport 7
+http://169.150.223.25/Supersport7/index.m3u8
+#EXTINF:-1,Art Sport 1 HD
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1,Art Sport 2 HD
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1,Art Sport 3 HD
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1,Art Sport 4 HD
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1,Art Sport 5 HD
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1,Art Sport 6 HD
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1,Tring Sport 1 HD
+http://169.150.223.25/TringSport1HD/index.m3u8
+#EXTINF:-1,Tring Sport 2 HD
+http://169.150.223.25/TringSport2HD/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1,Fight Network HD
+http://169.150.223.25/FightNetwork/index.m3u8
+#EXTINF:-1,RAI 1 HD
+http://169.150.223.25/Rai1/index.m3u8
+#EXTINF:-1,RAI 2 HD
+http://169.150.223.25/Rai2/index.m3u8
+#EXTINF:-1,Rai 3 HD
+http://169.150.223.25/Rai3/index.m3u8
+#EXTINF:-1,Rai Sport HD
+http://169.150.223.25/RaiSport/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://gr.seetv.cc/play/15/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://gr.seetv.cc/play/145/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" catchup="shift" timeshift="5" catchup-days="5",Eurosport 2
+http://gr.seetv.cc/play/43/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD" catchup="shift" timeshift="5" catchup-days="5",Eurosport 2 HD
+http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5",Матч! ПРЕМЬЕР
+http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5",Матч Премьер HD
+http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5",Матч Арена
+http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Арена HD
+http://gr.seetv.cc/play/146/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Планета" catchup="shift" timeshift="5" catchup-days="5",Матч! Планета
+http://gr.seetv.cc/play/14/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5",Матч ТВ
+http://gr.seetv.cc/play/5/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5",Матч! HD
+http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Боец HD
+http://gr.seetv.cc/play/30/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5",МАТЧ! Страна
+http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Страна HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Страна HD
+http://gr.seetv.cc/play/212/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5",Матч! Игра
+http://gr.seetv.cc/play/153/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Игра HD
+http://gr.seetv.cc/play/268/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Футбол 1 HD
+http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5",Матч! Футбол 1
+http://gr.seetv.cc/play/54/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Футбол 2 HD
+http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Футбол 3 HD
+http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Megogo Спорт HD" catchup="shift" timeshift="5" catchup-days="5",MEGOGO Спорт HD
+http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports Premium HD",Setanta Sports Premium HD
+http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports Ukraine" catchup="shift" timeshift="5" catchup-days="5",Setanta Sports Ukraine
+http://gr.seetv.cc/play/1434/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports+ Ukraine" catchup="shift" timeshift="5" catchup-days="5",Setanta Sports+ Ukraine
+http://gr.seetv.cc/play/9957/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" catchup="shift" timeshift="5" catchup-days="5",Setanta Sports 1 HD
+http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" catchup="shift" timeshift="5" catchup-days="5",Setanta Sports 2 HD
+http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Qazaqstan" catchup="shift" timeshift="5" catchup-days="5",Setanta Qazaqstan
+http://gr.seetv.cc/play/5094/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports HD MD",Setanta Sports HD MD
+http://gr.seetv.cc/play/11008/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Суспільне Спорт",Суспільне Спорт
+http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="DiviSport",DiviSport
+http://gr.seetv.cc/play/315/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Dynamo Kyiv TV",Dynamo Kyiv TV
+http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Футбол" catchup="shift" timeshift="5" catchup-days="5",Футбол
+http://gr.seetv.cc/play/171/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Футбол HD" catchup="shift" timeshift="5" catchup-days="5",Футбол HD
+http://gr.seetv.cc/play/3920/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport" catchup="shift" timeshift="5" catchup-days="5",Viju+ Sport
+http://gr.seetv.cc/play/77/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Viju+ Sport HD" catchup="shift" timeshift="5" catchup-days="5",Viju+ Sport HD
+http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Старт Триумф HD" catchup="shift" timeshift="5" catchup-days="5",Старт Триумф HD
+http://gr.seetv.cc/play/7375/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Старт HD" catchup="shift" timeshift="5" catchup-days="5",Старт HD
+http://gr.seetv.cc/play/9946/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Конный мир HD" catchup="shift" timeshift="5" catchup-days="5",Конный мир HD
+http://gr.seetv.cc/play/394/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="КХЛ" catchup="shift" timeshift="5" catchup-days="5",КХЛ
+http://gr.seetv.cc/play/149/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="KHL Prime" catchup="shift" timeshift="5" catchup-days="5",KHL Prime
+http://gr.seetv.cc/play/177/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Хоккейный" catchup="shift" timeshift="5" catchup-days="5",Хоккейный
+http://gr.seetv.cc/play/6160/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Бокс ТВ" catchup="shift" timeshift="5" catchup-days="5",Бокс ТВ
+http://gr.seetv.cc/play/482/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Sport 1 UA",Sport 1 UA
+http://gr.seetv.cc/play/2638/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Sport 2 UA",Sport 2 UA
+http://gr.seetv.cc/play/2639/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Sport 3 UA",Sport 3 UA
+http://gr.seetv.cc/play/2640/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Sport 4 UA",Sport 4 UA
+http://gr.seetv.cc/play/2641/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="NBA TV" catchup="shift" timeshift="5" catchup-days="5",NBA TV
+http://gr.seetv.cc/play/9984/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Мир Баскетбола" catchup="shift" timeshift="5" catchup-days="5",Мир Баскетбола
+http://gr.seetv.cc/play/8831/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5",Авто Плюс
+http://gr.seetv.cc/play/29/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Extreme Sports" catchup="shift" timeshift="5" catchup-days="5",Extreme Sports
+http://gr.seetv.cc/play/53/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Спортивный" catchup="shift" timeshift="5" catchup-days="5",Спортивный
+http://gr.seetv.cc/play/6159/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="UDAR" catchup="shift" timeshift="5" catchup-days="5",UDAR
+http://gr.seetv.cc/play/4111/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="UFC ТВ HD",UFC
+http://gr.seetv.cc/play/1777/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="MMA-TV HD",MMA-TV HD
+http://gr.seetv.cc/play/3795/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Xsport HD" catchup="shift" timeshift="5" catchup-days="5",Xsport HD
+http://gr.seetv.cc/play/480/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Xsport+ HD",Xsport+ HD
+http://gr.seetv.cc/play/2635/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Equalympic HD",Equalympic HD
+http://gr.seetv.cc/play/8788/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Точка отрыва" catchup="shift" timeshift="5" catchup-days="5",Точка отрыва
+http://gr.seetv.cc/play/601/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5",Авто 24
+http://gr.seetv.cc/play/256/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Cars & Stars TV HD" catchup="shift" timeshift="5" catchup-days="5",Cars & Stars TV HD
+http://gr.seetv.cc/play/9904/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="FightBox" catchup="shift" timeshift="5" catchup-days="5",FightBox
+http://gr.seetv.cc/play/8790/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="TRACE Sport Stars" catchup="shift" timeshift="5" catchup-days="5",TRACE Sport Stars
+http://gr.seetv.cc/play/9907/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Fast&FunBox" catchup="shift" timeshift="5" catchup-days="5",Fast&FunBox
+http://gr.seetv.cc/play/8792/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="MAINCAST SPORT",MAINCAST SPORT
+http://gr.seetv.cc/play/1994/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Tennis+",Tennis+
+http://gr.seetv.cc/play/1889/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="UPL.TV HD" catchup="shift" timeshift="5" catchup-days="5",UPL.TV HD
+http://gr.seetv.cc/play/523/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="QazSport" catchup="shift" timeshift="5" catchup-days="5",QazSport
+http://gr.seetv.cc/play/1841/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Q Arena" catchup="shift" timeshift="5" catchup-days="5",Q Arena
+http://gr.seetv.cc/play/1842/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Q Sport League" catchup="shift" timeshift="5" catchup-days="5",Q Sport League
+http://gr.seetv.cc/play/1843/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Sport+ Qazaqstan" catchup="shift" timeshift="5" catchup-days="5",Sport+ Qazaqstan
+http://gr.seetv.cc/play/1844/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport 1",BeIN Sport 1 HD
+http://gr.seetv.cc/play/1101/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport 2",BeIN Sport 2 HD
+http://gr.seetv.cc/play/1102/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport 3",BeIN Sport 3 HD
+http://gr.seetv.cc/play/1103/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="BeIN Sport 4",BeIN Sport 4 HD
+http://gr.seetv.cc/play/1104/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="BeIN XTRA",BeIN XTRA
+http://gr.seetv.cc/play/1686/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="TNT Sport 1 HD",TNT Sport 1 HD
+http://gr.seetv.cc/play/922/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="TNT Sport 2 HD",TNT Sport 2 HD
+http://gr.seetv.cc/play/923/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="TNT Sport 3 HD",TNT Sport 3 HD
+http://gr.seetv.cc/play/934/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 DE",DAZN 1 DE
+http://gr.seetv.cc/play/803/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga HD",Sky Sport Bundesliga HD
+http://gr.seetv.cc/play/836/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Movistar Formula 1",Movistar Formula 1
+http://gr.seetv.cc/play/1121/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Diema Sport HD",Diema Sport HD
+http://gr.seetv.cc/play/51002/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Diema Sport 2 HD",Diema Sport 2 HD
+http://gr.seetv.cc/play/51003/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Diema Sport 3 HD",Diema Sport 3 HD
+http://gr.seetv.cc/play/51004/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV + PT",SPORT TV + PT
+http://gr.seetv.cc/play/1967/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1 PT",SPORT TV 1 PT
+http://gr.seetv.cc/play/1968/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 2 PT",SPORT TV 2 PT
+http://gr.seetv.cc/play/1969/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 3 PT",SPORT TV 3 PT
+http://gr.seetv.cc/play/1970/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 4 PT",SPORT TV 4 PT
+http://gr.seetv.cc/play/1971/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 5 PT",SPORT TV 5 PT
+http://gr.seetv.cc/play/1972/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 6 PT",SPORT TV 6 PT
+http://gr.seetv.cc/play/1973/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes ES",M+ Deportes ES
+http://gr.seetv.cc/play/1974/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 2 ES",M+ Deportes 2 ES
+http://gr.seetv.cc/play/1975/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 3 ES",M+ Deportes 3 ES
+http://gr.seetv.cc/play/1976/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="M+ Deportes 4 ES",M+ Deportes 4 ES
+http://gr.seetv.cc/play/1977/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 PT",DAZN 1 PT
+http://gr.seetv.cc/play/1978/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 PT",DAZN 2 PT
+http://gr.seetv.cc/play/1979/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="DAZN 1 ES",DAZN 1 ES
+http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="DAZN 2 ES",DAZN 2 ES
+http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-name="Clarity4K Единоборства",Clarity4K Единоборства
+http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
