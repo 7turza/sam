@@ -1052,16 +1052,10 @@ http://tv.tuva.ru/machtv/index.m3u8
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1,Матч ТВ
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1,NHL (Интересные моменты)
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Setanta Sports 2 GE
-http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1,Setanta Sports 1 GE
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1,Setanta Sports 2 GE
+http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1,Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1,Бокс ТВ
@@ -1070,8 +1064,6 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1,AYM HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
-#EXTINF:-1,CT SPORT HD
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1,SPORT 1 HD
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1,SPORT 2 HD
@@ -1102,27 +1094,17 @@ http://79.127.207.193/Supersport5/playlist.m3u8
 http://79.127.207.193/Supersport6/playlist.m3u8
 #EXTINF:-1,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1,DAZN Combat German
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1,UFC Network
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1,Motor sport revue HD
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1,Bein Sports XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,TNT Sport 1
-https://7pal.short.gy/tntspts1
-#EXTINF:-1,TNT Sport 2
-https://7pal.short.gy/tntspts2
 #EXTINF:-1,TNT Sport 3
 https://7pal.short.gy/tntspts3
-#EXTINF:-1,TNT Sport 4
-https://7pal.short.gy/tntspts4
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Eurosport 1
 http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1, Eurosport 1
+#EXTINF:-1, Eurosport 2
 http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
 #EXTINF:-1,PREMIER SPORT 1
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
@@ -1208,9 +1190,9 @@ http://gr.seetv.cc/play/43/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5",Матч! ПРЕМЬЕР
 http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5",Матч Премьер HD
+#EXTINF:-1 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Премьер HD
 http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5",Матч Арена
+#EXTINF:-1 tvg-name="Матч! Арена" catchup="shift" timeshift="5" catchup-days="5",Матч! Арена
 http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Арена HD
 http://gr.seetv.cc/play/146/D70CC021CA87DF2/video.m3u8
@@ -1238,7 +1220,7 @@ http://gr.seetv.cc/play/54/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5",Матч! Футбол 3 HD
 http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name="Megogo Спорт HD" catchup="shift" timeshift="5" catchup-days="5",MEGOGO Спорт HD
+#EXTINF:-1 tvg-name="Megogo Спорт" catchup="shift" timeshift="5" catchup-days="5",Megogo Спорт
 http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Setanta Sports Premium HD",Setanta Sports Premium HD
 http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
@@ -1252,7 +1234,7 @@ http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Setanta Qazaqstan" catchup="shift" timeshift="5" catchup-days="5",Setanta Qazaqstan
 http://gr.seetv.cc/play/5094/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name="Setanta Sports HD MD",Setanta Sports HD MD
+#EXTINF:-1 tvg-name="Setanta Sports MD",Setanta Sports MD
 http://gr.seetv.cc/play/11008/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-name="Суспільне Спорт",Суспільне Спорт
 http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
