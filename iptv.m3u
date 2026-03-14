@@ -1,13 +1,3 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Российские",Первый канал HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1,ТНТ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Развлекательные",ТНТ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Общие", ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1,Россия 1 HD
@@ -54,45 +44,18 @@ http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3 HD.png" group-title="Спортивные",Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-name="Окко Спорт HD" catchup="shift" timeshift="5" catchup-days="5",Окко Спорт HD
-http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name="Окко Футбол HD" catchup="shift" timeshift="5" catchup-days="5",Окко Футбол HD
-http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-name=" Окко.Прайм Спорт" catchup="shift" timeshift="5" catchup-days="5", Окко.Прайм Спорт
-http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1,ТВЦ
-http://hls.peers.tv/streaming/tvc_hd/126/tvrecw/playlist.m3u8
 #EXTINF:-1,Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1,Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU TV HD.png" group-title="Музыкальные",RU.TV HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1,Первый музыкальный Россия HD
 http://rtmp.one.by:2300
 #EXTINF:-1,Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1, Дом кино Премиум HD
-http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
-#EXTINF:-1, Мосфильм. Золотая коллекция HD
-http://95.66.188.74/MosfilmHD/index.m3u8
-#EXTINF:-1, Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1, Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Матч! HD
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1, Eurosport 4K
-https://7pal.short.gy/eusport4k
-#EXTINF:-1, Setanta Sports 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Setanta Sports 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1,Red Bull HD
@@ -103,17 +66,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" group-title="Российские",Мир 24 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир HD.png" group-title="Российские",Мир HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",НЕИЗВЕСТНАЯ РОССИЯ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo", .Black
-http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas", Киноужас
@@ -124,8 +76,6 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Родное кино
-http://84.54.128.52:9090/play/a009/index.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАзия
@@ -140,38 +90,24 @@ https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноКомедия
 https://autopilot.catcast.tv/content/41331/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноМистика
-https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноСемья
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноФантастика
 https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноЭкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — ТелеНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — Христианский
-https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино", Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="Кино", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 group-title="Кино", Hollywood
-http://193.25.8.59:8000/interaz
-#EXTINF:-1 group-title="Кино", VHS-ка
-http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="Кино", viju TV1000 HD
-http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", viju TV1000 русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Музыка", Матур ТВ
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="muzykamodatv", ММТВ HD
-http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", Clubbing TV HD
@@ -190,34 +126,18 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Radio M2O
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 group-title="Музыка", RU.TV HD
-http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ HD
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Конный мир
-http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Спорт" tvg-id="start", Старт Баскет
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-#EXTINF:-1 group-title="Спорт", Extreme Sports
-http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 502 HD
 https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="Спорт", Fox Sports 503
-https://7pal.short.gy/fox503au
 #EXTINF:-1 group-title="Спорт", Fox Sports 506 HD
 https://7pal.short.gy/fox506au
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
-#EXTINF:-1 group-title="Спорт", Okko Прайм Спорт HD
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sport 1 HD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sport 2 HD
@@ -226,40 +146,20 @@ https://7pal.short.gy/prsport2
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Спорт", Sky Sport 1 NZ HD
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="Спорт", Sky Sport 3 NZ HD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="Спорт", Sky Sport Football HD
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="Спорт", TNT Sports 1 HD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="Спорт", TNT Sports 2 HD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="Спорт", TNT Sports 4 HD
-https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт", viju+ Sport
 http://158.101.222.193:88/georgia_play.php?id=viasatsport
-#EXTINF:-1  group-title="Кино" , 1FILMAX HD
-http://hls.goodgame.ru:8080/hls/204708.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="indiyskoe-kino" , Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1  group-title="Кино"  tvg-id="kino1int-tviksel" , Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1  group-title="Кино" , Кошмар
-http://hls.goodgame.ru:8080/hls/204709.m3u8
-#EXTINF:-1  group-title="Кино"  tvg-id="foxlife" , FX Life
-http://188.237.47.212:6008
 #EXTINF:-1  group-title="Познавательные" , 360° HD 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные" , Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные" , Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные" , Моя планета
-http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1  group-title="Познавательные" , Нано
 http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:-1  group-title="Познавательные" , Нано HD
-http://tv.streams.baikal-telecom.net:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные" , Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные" , Наука 2.0
@@ -272,10 +172,6 @@ http://v4.proofix.ru/0mir/index.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1  group-title="Познавательные" , РЖД HD 
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные" , Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF:-1  group-title="Познавательные" , RT Doc HD
-http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 #EXTINF:-1  group-title="Познавательные" , Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Новости" , 360° Новости HD
@@ -324,12 +220,6 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1  group-title="Детские" , Тооку ТВ HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1  group-title="Спорт"  tvg-id="kxl-hd" , KHL Prime HD
-http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF:-1  group-title="Спорт"  tvg-id="sky-sports-action" , Sky Sports Action / NFL HD
-https://7pal.short.gy/ssportsat
-#EXTINF:-1  group-title="Спорт" , Sky Sports Golf
-https://7pal.short.gy/ssportsgf
 #EXTINF:-1  group-title="Спорт" , Sky Sports News HD
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1  group-title="Спорт" , Sky Sports Premier League HD
@@ -346,62 +236,20 @@ http://185.57.68.33/232/mpegts
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png" group-title="Кино и сериалы",Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="Познавательные",ЕГЭ ТВ
+#EXTINF:-1,Bridge
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ICTV Serialy HD
-http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1,M2
-https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,FREEДOM
-http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1,24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1,Дніпро TV HD
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1,Telekanal RAI HD
 https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:-1,Тернопіль 1
-https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1,Первый городской Одесса HD
 https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 #EXTINF:-1,ITV
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1,NTK TV
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1,Солнце
-http://hls.peers.tv/streaming/solntse/16/gvh1w/playlist.m3u8
-#EXTINF:-1,МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8
-#EXTINF:-1,DuckTV
-http://hls.peers.tv/streaming/ducktv/16/h720/playlist.m3u8
-#EXTINF:-1,Russian Travel Guide
-http://hls.peers.tv/streaming/rustravel/16/copy/playlist.m3u8
-#EXTINF:-1,AnimeTV
-http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8
-#EXTINF:-1,Живи активно
-http://hls.peers.tv/streaming/zhivi_aktivno_hd/16/tvrecw/playlist.m3u8
-#EXTINF:-1,Живая природа HD
-http://hls.peers.tv/streaming/zhivaya_priroda_hd/16/h1080/playlist.m3u8
-#EXTINF:-1,Мультимания
-http://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8
-#EXTINF:-1,СмайликТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8
-#EXTINF:-1,Fashion HD
-http://hls.peers.tv/streaming/fashdon/16/copy_a/playlist.m3u8
-#EXTINF:-1,Старт
-http://hls.peers.tv/streaming/start/16/tvrecw/playlist.m3u8
-#EXTINF:-1,Silk Way Cinema HD
-http://hls.peers.tv/streaming/silk_way_cinema/16/copy_a/playlist.m3u8
-#EXTINF:-1,Bridge Hits
-http://hls.peers.tv/streaming/dange_tv/16/tvrecw/playlist.m3u8
-#EXTINF:-1,Мы HD
-http://hls.peers.tv/streaming/mi/16/copy_a/playlist.m3u8
-#EXTINF:-1,Сибирь 24 HD
-http://hls.peers.tv/streaming/sibir_24/16/copy_a/playlist.m3u8
-#EXTINF:-1,24KZ HD
-http://hls.peers.tv/streaming/habar_24/16/copy_a/playlist.m3u8
-#EXTINF:-1,SONGTV Russia
-http://hls.peers.tv/streaming/songtv_russia/126/tvrecw/playlist.m3u8
 #EXTINF:-1,12 канал
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1,Архыз
@@ -424,14 +272,12 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1,Салям
 https://bsttv.bonus-tv.ru/cdn/salyamhd/playlist.m3u8
-#EXTINF:-1,ТНТ Music
+#EXTINF:-1,FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1,Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1,30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1,4 Sport
-https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1,ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1,Africa 24 Sport HD
@@ -444,14 +290,6 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1,DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1,Dubai Racing
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1,Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1,FanDuel Racing HD
@@ -468,14 +306,10 @@ https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1,ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1,KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1,Kozoom TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 #EXTINF:-1,KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1,L'Equipe
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1,MadeinBO TV HD
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1,MMA-TV.com
@@ -486,10 +320,6 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Persiana Sport
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1,Premier Sports 2
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
 #EXTINF:-1,PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1,RACER International
@@ -510,8 +340,6 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,talkSPORT
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1,Teledeporte
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1,Tennis Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1,TJK TV HD
@@ -530,20 +358,14 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1,UFC Network HD
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1,UFA TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1,Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1,Залипательные ролики 2
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 ,24 Канал
-http://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 ,Київ TV
 http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 ,Крым 24
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 group-title="Music",М2
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 ,НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 ,Первый городской (Одесса)
@@ -576,8 +398,6 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 http://trk555.tv:8888/live
 #EXTINF:-1 ,БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Салям
-http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 ,Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,С1 Сургут 86
@@ -626,34 +446,10 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наш Дом
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:-1 ,ACCN
-https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 ,AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 ,Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 ,Canal do Inter
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 ,CBS Sports Network USA
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CosmoteSport1.gr@HD" tvg-logo="https://i.imgur.com/fn0TM6V.png" group-title="Sports",Cosmote Sport 1
-http://138.2.160.168:8080/fetch?COSMOTESPORT1
-#EXTINF:-1 tvg-id="CosmoteSport2.gr@HD" tvg-logo="https://i.imgur.com/1RSyE5N.png" group-title="Sports",Cosmote Sport 2
-http://138.2.160.168:8080/fetch?COSMOTESPORT2
-#EXTINF:-1 tvg-id="CosmoteSport3.gr@HD" tvg-logo="https://i.imgur.com/V5qKXx9.png" group-title="Sports",Cosmote Sport 3
-http://138.2.160.168:8080/fetch?COSMOTESPORT3
-#EXTINF:-1 tvg-id="CosmoteSport4.gr@HD" tvg-logo="https://i.imgur.com/zEdJUZU.png" group-title="Sports",Cosmote Sport 4
-http://138.2.160.168:8080/fetch?COSMOTESPORT4
-#EXTINF:-1 tvg-id="CosmoteSport5.gr@HD" tvg-logo="https://i.imgur.com/0GKXahH.png" group-title="Sports",Cosmote Sport 5
-http://138.2.160.168:8080/fetch?COSMOTESPORT5
-#EXTINF:-1 tvg-id="CosmoteSport6.gr@HD" tvg-logo="https://i.imgur.com/KG6VWN1.png" group-title="Sports",Cosmote Sport 6
-http://138.2.160.168:8080/fetch?COSMOTESPORT6
-#EXTINF:-1 tvg-id="CosmoteSport7.gr@HD" tvg-logo="https://i.imgur.com/p0DKcn2.png" group-title="Sports",Cosmote Sport 7
-http://138.2.160.168:8080/fetch?COSMOTESPORT7
-#EXTINF:-1 tvg-id="CosmoteSport8.gr@HD" tvg-logo="https://i.imgur.com/DKlW5ka.png" group-title="Sports",Cosmote Sport 8
-http://138.2.160.168:8080/fetch?COSMOTESPORT8
-#EXTINF:-1 tvg-id="CosmoteSport9.gr@HD" tvg-logo="https://i.imgur.com/3YwAXcH.png" group-title="Sports",Cosmote Sport 9
-http://138.2.160.168:8080/fetch?COSMOTESPORT9
 #EXTINF:-1 ,FanDuel TV
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 ,FIFA+ Portuguese
@@ -664,36 +460,18 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 ,FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 ,GEM Fit
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
 #EXTINF:-1 ,Gol Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 ,KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 ,LRT Plius
-https://stream-live.lrt.lt/plius/master.m3u8
-#EXTINF:-1 ,M4 Sport
-http://88.212.15.19/live/m4_hun/index.m3u8
-#EXTINF:-1 ,Marquee Sports Network
-https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 ,MSG
-https://fl1.moveonjoy.com/MSG/mpegts
 #EXTINF:-1 ,NHRA TV
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 #EXTINF:-1 ,Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 ,Persiana Sports 3
-https://pepsi3.abntv.live/hls/psp3.m3u8
-#EXTINF:-1 ,Persiana Sports 4
-https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 ,Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 ,Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 ,RTSH Sport
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1 ,SportsNet New York
-https://fl1.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 ,Strongman Champions League
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,TVR Sport
@@ -712,8 +490,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
-#EXTINF:0 ,QazSport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,KTV Sport Plus
@@ -734,10 +510,6 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,NFL Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6&checkedby:iptvcat.com
 #EXTINF:0 ,Speed Sport 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, 24 Украина HD
@@ -760,8 +532,6 @@ http://91.194.79.46:8081/stream1/channel1/chunks.m3u8
 http://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1, Три Ангела HD
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1, Белгород 24 HD
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1, МТВ HD
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1, ТЕТ HD
@@ -776,10 +546,6 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
 #EXTINF:-1, Motorvisiontv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1677
-#EXTINF:-1, М1 HD
-http://live.m2.tv/hls2/720/stream.m3u8
-#EXTINF:-1, М2 HD
-http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1, Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1, Reload Radio Music Power HD
@@ -802,8 +568,6 @@ https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w10146854
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1, Super Six
 https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1, Kiss Kiss Italia HD
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1, Kiss Kiss Napoli HD
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1, Afrobeats TV
