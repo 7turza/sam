@@ -600,10 +600,6 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1, PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1, Vibee TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1, NRG 91 Music HD
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1, TBN BALTIA
 http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1, НВК Саха HD
@@ -616,10 +612,6 @@ http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Ani.ru@SD",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 tvg-id="Kino24.ru@SD",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru@SD",Кулинар TV
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD",SONGTV Russia
@@ -630,8 +622,6 @@ https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 tvg-id="AISTTV.ru@SD",Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Aris24.ru@SD",Арис 24
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru@SD",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru@SD",Большая Азия
@@ -644,22 +634,16 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurasia.ru@SD",Евразия (Орск)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-id="EGETV.ru@SD",ЕГЭ ТВ
+#EXTINF:-1 tvg-id="EGETV.ru@SD",Bridge
 http://194.143.148.28:8080/RT_DOC/index.m3u8
-#EXTINF:-1 tvg-id="Enisey.ru@SD",Енисей
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel16.ru@SD",К16 (Саров)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@SD",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="Konniymir.ru@SD",Конный Мир
-https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru@SD",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 tvg-id="LDPRTV.ru@SD",ЛДПР ТВ (720p)
+#EXTINF:-1 tvg-id="LDPRTV.ru@SD",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Legendarnyy24.ru@SD",Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@Plus2",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru@Plus4",Мир +4
@@ -668,10 +652,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru@SD",Мир Белагорья
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-id="Mult.ru@SD",Мульт
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 tvg-id="Multimuzyka.ru@SD",Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru@SD",Нижний Новгород 24
@@ -682,8 +662,6 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OSN.ru@SD",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-id="Patriot.ru@SD",Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="RadioHit.ru@SD",Радио Хит (Орск)
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@SD",РБК
@@ -702,8 +680,6 @@ https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="Detskoekino.ru@International",Детское кино International
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="Kino1.ru@International",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 1 International
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 2 International
@@ -740,8 +716,6 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in@SD",TV BRICS English
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD",TV BRICS Portuguese
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSSpanish.es@HD",TV BRICS Spanish
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-id="Moldova1.md@SD",Moldova 1
@@ -756,18 +730,12 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="TVRMoldova.md@HD",TVR Moldova HD
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="",DAZN Darts x Pluto TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e449819-d189-42df-8e7a-17486c6d68aa
-#EXTINF:-1 tvg-id="",DAZN Heldinnen x Pluto TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782
 #EXTINF:-1, A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1, News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1, Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1, Беларусь 1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1, Беларусь 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1, Беларусь 5
@@ -782,36 +750,8 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1,X-Stream
 http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
-#EXTINF:-1,ViP Sport 1 HD
-http://de.seetv.cc/play/5009/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 2 HD
-http://de.seetv.cc/play/5010/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 3 HD
-http://de.seetv.cc/play/5011/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 4 HD
-http://pl.seetv.cc/play/5012/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 5 HD
-http://de.seetv.cc/play/5013/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 6 HD
-http://de.seetv.cc/play/5014/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 7 HD
-http://de.seetv.cc/play/5015/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 8 HD
-http://de.seetv.cc/play/5016/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 10 HD
-http://de.seetv.cc/play/5018/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 11 HD
-http://de.seetv.cc/play/5019/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 12 HD
-http://de.seetv.cc/play/5020/F153046F2E99D25/video.m3u8
-#EXTINF:-1,ViP Sport 13 HD
-http://de.seetv.cc/play/5021/F153046F2E99D25/video.m3u8
-#EXTINF:-1,UPL.TV
-http://pl.online24.pm/play/523/F153046F2E99D25/video.m3u8
 #EXTINF:-1,Матч ТВ HD
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1,Матч ТВ
-http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1,Матч ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Матч ТВ
@@ -844,18 +784,6 @@ http://185.132.134.159:80/sport4/index.m3u8
 http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1,Sport 6 Israel
 http://185.132.134.159:80/sport6/index.m3u8
-#EXTINF:-1,Super Sport 1 Albanian
-http://79.127.207.193/Supersport1/playlist.m3u8
-#EXTINF:-1,Super Sport 2 Albanian
-http://79.127.207.193/Supersport2/playlist.m3u8
-#EXTINF:-1,Super Sport 3 Albanian
-http://79.127.207.193/Supersport3/playlist.m3u8
-#EXTINF:-1,Super Sport 4 Albanian
-http://79.127.207.193/Supersport4/playlist.m3u8
-#EXTINF:-1,Super Sport 5 Albanian
-http://79.127.207.193/Supersport5/playlist.m3u8
-#EXTINF:-1,Super Sport 6 Albanian
-http://79.127.207.193/Supersport6/playlist.m3u8
 #EXTINF:-1,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1,Motor sport revue HD
